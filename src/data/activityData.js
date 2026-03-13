@@ -169,7 +169,7 @@ export const infographics = [
     examples: ["Drawing and painting", "Inventing new moves", "Building new things"],
     characters: ["Naruto"],
     url: "https://docs.google.com/presentation/d/e/2PACX-1vQCreativity/pub",
-    image: "/images/naruto.png",
+    image: "/images/naruto_v2.jpg",
   },
 ];
 
@@ -269,7 +269,7 @@ export const quizQuestions = [
     options: ["Creativity", "Kindness", "Humor", "Intelligence"],
     correct: 0,
     explanation: "Using your imagination to create unexpected solutions is Creativity! 🎨",
-    image: "/images/naruto.png",
+    image: "/images/naruto_v2.jpg",
   },
   {
     id: "q5",
@@ -457,6 +457,6 @@ export const reflectionCards = [
     color: "from-green-400 to-teal-500",
     bgColor: "bg-green-50",
     insight: "Like Woody and Buzz, we learn better together!",
-    image: "/images/woody.png",
+    image: "/images/collaboration_new.jpg",
   },
 ];
