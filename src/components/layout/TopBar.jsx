@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useProgress } from '../../context/ProgressContext'
 import { activityData } from '../../data/activityData'
@@ -20,8 +21,27 @@ export default function TopBar() {
   const location = useLocation()
   const navigate = useNavigate()
   const { progressPercent, completedCount, totalChapters } = useProgress()
+  const [isFullscreen, setIsFullscreen] = useState(false)
 
   const info = getChapterInfo(location.pathname)
+
+  useEffect(() => {
+    const handleFsChange = () => {
+      setIsFullscreen(!!document.fullscreenElement)
+    }
+    document.addEventListener('fullscreenchange', handleFsChange)
+    return () => document.removeEventListener('fullscreenchange', handleFsChange)
+  }, [])
+
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().catch((err) => {
+        console.error(`Error attempting to enable full-screen mode: ${err.message}`)
+      })
+    } else {
+      document.exitFullscreen()
+    }
+  }
 
   return (
     <header className="relative z-30 h-[70px] bg-white/70 backdrop-blur-lg border-b border-white/60 shadow-md flex items-center px-4 md:px-6 gap-4">
@@ -94,6 +114,25 @@ export default function TopBar() {
           </span>
         </div>
       </div>
+
+      {/* Fullscreen Button */}
+      <motion.button
+        onClick={toggleFullscreen}
+        whileHover={{ scale: 1.1, backgroundColor: 'rgba(255, 255, 255, 0.9)' }}
+        whileTap={{ scale: 0.9 }}
+        className="w-10 h-10 flex items-center justify-center bg-white/70 backdrop-blur-md rounded-xl border border-white/60 shadow-sm text-purple-600 transition-colors"
+        title={isFullscreen ? 'Exit Fullscreen' : 'Enter Fullscreen'}
+      >
+        {isFullscreen ? (
+          <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+          </svg>
+        ) : (
+          <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+          </svg>
+        )}
+      </motion.button>
     </header>
   )
 }
