@@ -197,7 +197,7 @@ export default function CharacterReport() {
             </h1>
           </div>
           <p className="font-nunito text-gray-500 font-bold tracking-widest uppercase text-sm">
-            Class: {studentInfo?.className} {studentInfo?.section ? `| Section: ${studentInfo.section}` : ''}
+            {studentInfo?.grade && `${studentInfo.grade} | `}Class: {studentInfo?.className || "Hero Academy"} {studentInfo?.section ? `| Section: ${studentInfo.section}` : ''}
           </p>
         </div>
 

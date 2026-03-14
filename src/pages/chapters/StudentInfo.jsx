@@ -11,7 +11,8 @@ export default function StudentInfo() {
   
   const [formData, setFormData] = useState({
     name: '',
-    className: '2nd Grade',
+    className: '',
+    grade: '2nd Grade',
     section: 'Aura'
   })
 
@@ -58,15 +59,33 @@ export default function StudentInfo() {
             />
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             <div>
               <label className="block font-baloo font-bold text-gray-700 text-xl mb-2 ml-2">Class Name</label>
               <input 
                 type="text" 
                 value={formData.className}
                 onChange={e => setFormData(p => ({ ...p, className: e.target.value }))}
+                placeholder="e.g. 2A"
                 className="w-full font-nunito text-lg px-6 py-4 rounded-2xl border-2 border-purple-100 focus:border-purple-400 focus:ring-4 focus:ring-purple-100 bg-white/80 shadow-inner outline-none transition-all"
               />
+            </div>
+
+            <div>
+              <label className="block font-baloo font-bold text-gray-700 text-xl mb-2 ml-2">Grade</label>
+              <div className="relative">
+                <select 
+                  value={formData.grade}
+                  onChange={e => setFormData(p => ({ ...p, grade: e.target.value }))}
+                  className="w-full appearance-none font-nunito text-lg px-6 py-4 rounded-2xl border-2 border-purple-100 focus:border-purple-400 focus:ring-4 focus:ring-purple-100 bg-white/80 shadow-inner outline-none transition-all cursor-pointer"
+                >
+                  <option value="2nd Grade">2nd Grade</option>
+                  <option value="3rd Grade">3rd Grade</option>
+                </select>
+                <div className="absolute inset-y-0 right-6 flex items-center pointer-events-none">
+                  <span className="text-gray-400 select-none">▼</span>
+                </div>
+              </div>
             </div>
             
             <div>
