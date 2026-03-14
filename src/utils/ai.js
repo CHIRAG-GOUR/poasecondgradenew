@@ -22,9 +22,15 @@ export async function generateCharacterQuestions(character) {
       ];
     }
     
-    // Shuffle the available 25 backup questions for this character and slice exactly 5
-    const shuffled = [...backups].sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, 5);
+    // Shuffle the available backup questions and slice exactly 5
+    const shuffledQuestions = [...backups].sort(() => 0.5 - Math.random());
+    const selectedQuestions = shuffledQuestions.slice(0, 5);
+
+    // Shuffle the options within each selected question to prevent predictability
+    return selectedQuestions.map(q => ({
+      ...q,
+      options: [...q.options].sort(() => 0.5 - Math.random())
+    }));
   } catch (error) {
     console.error("Local Error - Questions:", error);
     return null;
