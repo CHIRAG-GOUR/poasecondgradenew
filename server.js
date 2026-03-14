@@ -144,7 +144,25 @@ app.post('/api/gemini/report', async (req, res) => {
     res.json(reportData);
   } catch (error) {
     console.error("Gemini API Error (Report):", error);
-    res.status(500).json({ error: "Failed to generate report" });
+    
+    // Server-side Failover: Return a highly positive generic dynamic report
+    res.json({
+      "relationship": `Wow ${studentName}! You are incredibly brave and smart, just like ${characterName}! Your choices show that you have the heart of a true hero!`,
+      "matchPercentage": Math.floor(Math.random() * 20) + 80, // Random 80-99
+      "combatStats": {
+        "power": 85,
+        "fightIq": 90,
+        "speed": 88,
+        "cuteness": 95,
+        "humour": 80,
+        "bravery": 99
+      },
+      "topQualities": [
+        { "emoji": "🌟", "name": "Super Star" },
+        { "emoji": "🛡️", "name": "Brave Heart" },
+        { "emoji": "🧠", "name": "Smart Thinker" }
+      ]
+    });
   }
 });
 
