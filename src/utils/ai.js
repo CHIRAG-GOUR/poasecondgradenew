@@ -1,3 +1,5 @@
+import fallbackDatabase from '../data/fallbackQuestions.json';
+
 const BACKEND_URL = 'http://localhost:3001/api/gemini';
 
 /**
@@ -7,25 +9,25 @@ const BACKEND_URL = 'http://localhost:3001/api/gemini';
  */
 export async function generateCharacterQuestions(character) {
   try {
-    const res = await fetch(`${BACKEND_URL}/questions`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        characterId: character.id,
-        characterName: character.name,
-        characterDescription: character.description,
-        traits: character.traits,
-        topTraits: Object.entries(character.scores || {})
-          .sort(([,a], [,b]) => b - a).slice(0,3)
-          .map(([k]) => ({ name: k, description: `High ${k}` }))
-      })
-    });
+    const backups = fallbackDatabase[character.id];
     
-    if (!res.ok) throw new Error("Failed to fetch questions from backend");
-    return await res.json();
+    if (!backups || backups.length === 0) {
+      // Final absolute fail-safe if the character ID isn't in JSON
+      return [
+        { "question": "What is your favorite color?", "options": [{ "text": "Red!" }, { "text": "Blue!" }, { "text": "Green!" }] },
+        { "question": "What do you like to eat?", "options": [{ "text": "Pizza!" }, { "text": "Apples!" }, { "text": "Nothing!" }] },
+        { "question": "Where would you go on an adventure?", "options": [{ "text": "The Moon!" }, { "text": "The Beach!" }, { "text": "My room!" }] },
+        { "question": "Who is your best friend?", "options": [{ "text": "A dog!" }, { "text": "A tiger!" }, { "text": "A ghost!" }] },
+        { "question": "What is your superpower?", "options": [{ "text": "Flying!" }, { "text": "Invisibility!" }, { "text": "Sleeping!" }] }
+      ];
+    }
+    
+    // Shuffle the available 25 backup questions for this character and slice exactly 5
+    const shuffled = [...backups].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, 5);
   } catch (error) {
-    console.error("Backend Error - Questions:", error);
-    return null; // Fallback handled appropriately by caller
+    console.error("Local Error - Questions:", error);
+    return null;
   }
 }
 
