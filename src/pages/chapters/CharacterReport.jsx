@@ -233,21 +233,6 @@ export default function CharacterReport() {
                   
                   {/* Relationship / Why this character suits you */}
                   <div className={`mt-6 p-4 rounded-2xl bg-gradient-to-r ${selectedCharacter.color} text-white shadow-inner relative overflow-hidden`}>
-                    
-                    {/* Skillizee Certified Badge - Moved to empty space */}
-                    <div className="absolute -bottom-8 -right-4 pointer-events-none opacity-20 sm:opacity-90 w-28 h-28 sm:w-36 sm:h-36 rotate-12 drop-shadow-md z-10 flex items-center justify-center pointer-events-none mix-blend-overlay">
-                       <svg viewBox="0 0 200 200" className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
-                        <path id="curve" fill="transparent" d="M 40 100 A 60 60 0 1 1 160 100 A 60 60 0 1 1 40 100" />
-                        <circle cx="100" cy="100" r="80" fill="transparent" stroke="#FFF" strokeWidth="8" strokeDasharray="10 5" />
-                        <text width="500" font-family="Arial" font-weight="900">
-                          <textPath xlinkHref="#curve" startOffset="50%" textAnchor="middle" fill="#FFF" fontSize="22" letterSpacing="3">
-                            SKILLIZEE CERTIFIED
-                          </textPath>
-                        </text>
-                        <path d="M 100 50 L 115 85 L 150 90 L 125 115 L 130 150 L 100 135 L 70 150 L 75 115 L 50 90 L 85 85 Z" fill="#FBBF24" stroke="#FFF" strokeWidth="3" />
-                      </svg>
-                    </div>
-
                     <p className="font-baloo font-bold text-lg mb-1 flex items-center justify-center gap-2 relative z-20">
                       <span>✨</span> Why {selectedCharacter.name}?
                     </p>
@@ -328,6 +313,25 @@ export default function CharacterReport() {
                 )}
               </div>
             </div>
+
+            {/* Skillizee Certified Badge - Placed below How You Answered */}
+            <div className="flex justify-center sm:justify-end mt-4 pr-4">
+              <div className="w-32 h-32 sm:w-40 sm:h-40 rotate-[15deg] drop-shadow-lg flex items-center justify-center pointer-events-none">
+                 <svg viewBox="0 0 200 200" className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+                  <path id="curve2" fill="transparent" d="M 40 100 A 60 60 0 1 1 160 100 A 60 60 0 1 1 40 100" />
+                  <circle cx="100" cy="100" r="80" fill="#F3E8FF" stroke="#A855F7" strokeWidth="8" strokeDasharray="10 5" />
+                  <circle cx="100" cy="100" r="65" fill="#A855F7" />
+                  <text width="500" font-family="Arial" font-weight="900">
+                    <textPath xlinkHref="#curve2" startOffset="50%" textAnchor="middle" fill="#7E22CE" fontSize="22" letterSpacing="3">
+                      SKILLIZEE CERTIFIED
+                    </textPath>
+                  </text>
+                  <path d="M 100 50 L 115 85 L 150 90 L 125 115 L 130 150 L 100 135 L 70 150 L 75 115 L 50 90 L 85 85 Z" fill="#FBBF24" stroke="#FFF" strokeWidth="3" />
+                  <text x="100" y="112" fontFamily="Arial" fontSize="40" fontWeight="900" fill="#A855F7" textAnchor="middle" alignmentBaseline="middle">⭐</text>
+                </svg>
+              </div>
+            </div>
+
           </div>
         </div>
         )}
