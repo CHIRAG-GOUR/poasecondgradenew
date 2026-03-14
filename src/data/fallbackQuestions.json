@@ -1,1368 +1,1368 @@
 {
   "naruto": [
     {
-      "question": "What is your favorite color?",
+      "question": "A villain is attacking the Hidden Leaf Village! What do you do?",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use Shadow Clones to fight him!"
         },
         {
-          "text": "Blue!"
+          "text": "Call for the Hokage!"
         },
         {
-          "text": "Green!"
+          "text": "Run away crying."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Your friend is feeling sad. How do you cheer them up?",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Buy them a bowl of Ichiraku Ramen!"
         },
         {
-          "text": "Apples!"
+          "text": "Give them a high-five."
         },
         {
-          "text": "Nothing!"
+          "text": "Ignore them."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You need to learn a super hard jutsu. How do you train?",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Practice all night until I master it!"
         },
         {
-          "text": "The Beach!"
+          "text": "Read a book about it."
         },
         {
-          "text": "My room!"
+          "text": "Give up, it's too hard."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "The ninja exams are tomorrow!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "I'm pumped and ready to win!"
         },
         {
-          "text": "A tiger!"
+          "text": "I guess I'll study a bit."
         },
         {
-          "text": "A ghost!"
+          "text": "I'm going back to sleep."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "Someone stole your friend's scroll!",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Chase them down using ninja speed!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Tell a teacher about it."
         },
         {
-          "text": "Sleeping!"
+          "text": "It's not my problem."
         }
       ]
     }
   ],
   "pikachu": [
     {
-      "question": "What is your favorite color?",
+      "question": "Team Rocket is trying to steal your snacks! What do you do?",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use Thunderbolt to zap them!"
         },
         {
-          "text": "Blue!"
+          "text": "Run behind Ash for cover."
         },
         {
-          "text": "Green!"
+          "text": "Share the snacks with them."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "A wild Pokémon appears! How do you greet them?",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Say 'Pika Pika!' with a big smile."
         },
         {
-          "text": "Apples!"
+          "text": "Wave shyly from a distance."
         },
         {
-          "text": "Nothing!"
+          "text": "Ignore them completely."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You find a shiny Thunder Stone!",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Refuse it, I like being me!"
         },
         {
-          "text": "The Beach!"
+          "text": "Put it in my backpack."
         },
         {
-          "text": "My room!"
+          "text": "Throw it in the river."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "Ash wants to train for the Gym Battle.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Jump up and down with electric energy!"
         },
         {
-          "text": "A tiger!"
+          "text": "Sit under a tree and watch."
         },
         {
-          "text": "A ghost!"
+          "text": "Take a nap instead."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You see ketchup on the table!",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Hug the bottle, it's my favorite!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Put some on my fries."
         },
         {
-          "text": "Sleeping!"
+          "text": "Push it off the table."
         }
       ]
     }
   ],
   "tom": [
     {
-      "question": "What is your favorite color?",
+      "question": "You see a tiny mouse hole in the wall. What's your plan?",
       "options": [
         {
-          "text": "Red!"
+          "text": "Set up a clever (but clumsy) trap!"
         },
         {
-          "text": "Blue!"
+          "text": "Wait patiently outside."
         },
         {
-          "text": "Green!"
+          "text": "Go to sleep."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "The house owner gave you a bowl of milk.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Drink it all happily!"
         },
         {
-          "text": "Apples!"
+          "text": "Save it for later."
         },
         {
-          "text": "Nothing!"
+          "text": "Spill it on purpose."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "A bulldog is sleeping in the yard.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Sneak past him on tiptoes!"
         },
         {
-          "text": "The Beach!"
+          "text": "Walk normally."
         },
         {
-          "text": "My room!"
+          "text": "Pull his ears!"
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You finally caught the mouse!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Let him go because we're secretly friends."
         },
         {
-          "text": "A tiger!"
+          "text": "Show him to the owner."
         },
         {
-          "text": "A ghost!"
+          "text": "Eat him."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "A piano is falling from the sky!",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Hold up a tiny umbrella!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Run away very fast."
         },
         {
-          "text": "Sleeping!"
+          "text": "Stand still and wait."
         }
       ]
     }
   ],
   "jerry": [
     {
-      "question": "What is your favorite color?",
+      "question": "A cat is guarding the refrigerator!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Sneak through a tiny mouse hole!"
         },
         {
-          "text": "Blue!"
+          "text": "Wait for the cat to fall asleep."
         },
         {
-          "text": "Green!"
+          "text": "Walk up and ask for cheese."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You found a giant block of Swiss cheese!",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Roll it all the way home!"
         },
         {
-          "text": "Apples!"
+          "text": "Eat a tiny piece."
         },
         {
-          "text": "Nothing!"
+          "text": "Leave it there."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "The cat set up a mouse trap.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Carefully steal the cheese without snapping it."
         },
         {
-          "text": "The Beach!"
+          "text": "Walk around it."
         },
         {
-          "text": "My room!"
+          "text": "Step right on it."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You found a tiny hammer.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Use it to bonk the cat on the foot!"
         },
         {
-          "text": "A tiger!"
+          "text": "Fix my mouse house."
         },
         {
-          "text": "A ghost!"
+          "text": "Throw it away."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "The dog starts chasing the cat.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Laugh and eat cheese while watching."
         },
         {
-          "text": "Invisibility!"
+          "text": "Run away with them."
         },
         {
-          "text": "Sleeping!"
+          "text": "Try to stop the fight."
         }
       ]
     }
   ],
   "po": [
     {
-      "question": "What is your favorite color?",
+      "question": "Tai Lung has returned! How do you stop him?",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use the Wuxi Finger Hold! Skadoosh!"
         },
         {
-          "text": "Blue!"
+          "text": "Ask the Furious Five for help."
         },
         {
-          "text": "Green!"
+          "text": "Hide in the noodle shop."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Master Shifu tells you to train before eating.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Train super hard so I can have dumplings!"
         },
         {
-          "text": "Apples!"
+          "text": "Do a little bit of training."
         },
         {
-          "text": "Nothing!"
+          "text": "Cry and refuse to train."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You find the legendary Dragon Scroll!",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Open it and realize the power was inside me!"
         },
         {
-          "text": "The Beach!"
+          "text": "Put it back on the ceiling."
         },
         {
-          "text": "My room!"
+          "text": "Use it as a napkin."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "A giant bowl of noodles is on the table.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Eat it all in one giant slurp!"
         },
         {
-          "text": "A tiger!"
+          "text": "Eat it slowly with chopsticks."
         },
         {
-          "text": "A ghost!"
+          "text": "Throw it at a wall."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You trip and fall down 100 stairs.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Bounce down happily because I'm squishy!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Complain the whole way down."
         },
         {
-          "text": "Sleeping!"
+          "text": "Cry at the bottom."
         }
       ]
     }
   ],
   "doraemon": [
     {
-      "question": "What is your favorite color?",
+      "question": "Nobita is crying about his homework again. What do you do?",
       "options": [
         {
-          "text": "Red!"
+          "text": "Pull a futuristic gadget from my 4D pocket!"
         },
         {
-          "text": "Blue!"
+          "text": "Tell him to do it himself."
         },
         {
-          "text": "Green!"
+          "text": "Do his homework for him."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You find a plate of Dorayaki (red bean pancakes)!",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Eat all of them instantly!"
         },
         {
-          "text": "Apples!"
+          "text": "Save some for Nobita."
         },
         {
-          "text": "Nothing!"
+          "text": "Throw them in the trash."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Gian is bullying someone at the playground.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Use the Any-Where Door to escape!"
         },
         {
-          "text": "The Beach!"
+          "text": "Ask him to stop."
         },
         {
-          "text": "My room!"
+          "text": "Join Gian."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "There's a mouse in the room!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Scream, jump on the table, and faint!"
         },
         {
-          "text": "A tiger!"
+          "text": "Try to catch it calmly."
         },
         {
-          "text": "A ghost!"
+          "text": "Pet it."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "We need to travel back in time to fix a mistake.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Jump into the Time Machine in the desk drawer!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Use a regular airplane."
         },
         {
-          "text": "Sleeping!"
+          "text": "Give up."
         }
       ]
     }
   ],
   "spongebob": [
     {
-      "question": "What is your favorite color?",
+      "question": "Mr. Krabs needs you to flip Krabby Patties fast!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use my golden spatula! I'm ready!"
         },
         {
-          "text": "Blue!"
+          "text": "Flip them as normal."
         },
         {
-          "text": "Green!"
+          "text": "Quit my job and go home."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Plankton is trying to steal the secret formula!",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Protect it using the power of imagination!"
         },
         {
-          "text": "Apples!"
+          "text": "Tell Mr. Krabs."
         },
         {
-          "text": "Nothing!"
+          "text": "Give it to Plankton."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You have a day off at Jellyfish Fields.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Run around with my jellyfish net singing!"
         },
         {
-          "text": "The Beach!"
+          "text": "Sit quietly on a rock."
         },
         {
-          "text": "My room!"
+          "text": "Go back to work for free."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "Squidward asks you to be quiet.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Laugh my special laugh and keep playing!"
         },
         {
-          "text": "A tiger!"
+          "text": "Whisper very quietly."
         },
         {
-          "text": "A ghost!"
+          "text": "Yell as loud as I can."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You need to learn how to drive a boat.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Panic and crash the boat immediately!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Drive carefully."
         },
         {
-          "text": "Sleeping!"
+          "text": "Walk instead."
         }
       ]
     }
   ],
   "shinchan": [
     {
-      "question": "What is your favorite color?",
+      "question": "Your mom asks you to clean your room.",
       "options": [
         {
-          "text": "Red!"
+          "text": "Do a funny dance and run away!"
         },
         {
-          "text": "Blue!"
+          "text": "Clean it up slowly."
         },
         {
-          "text": "Green!"
+          "text": "Cry until she cleans it."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You see pretty Action Kamen toys at the store.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Beg mom and roll on the floor!"
         },
         {
-          "text": "Apples!"
+          "text": "Ask politely once."
         },
         {
-          "text": "Nothing!"
+          "text": "Walk past the toys."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "A stranger talks to you in the park.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Say something totally embarrassing!"
         },
         {
-          "text": "The Beach!"
+          "text": "Say hello nicely."
         },
         {
-          "text": "My room!"
+          "text": "Run away screaming."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You find a box of Chocobi snacks!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Eat the whole box in 3 seconds!"
         },
         {
-          "text": "A tiger!"
+          "text": "Save them for after dinner."
         },
         {
-          "text": "A ghost!"
+          "text": "Throw them away."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "It's time to play with Shiro (your dog).",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Roll him into a fuzzy snowball!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Take him for a normal walk."
         },
         {
-          "text": "Sleeping!"
+          "text": "Leave him inside."
         }
       ]
     }
   ],
   "goku": [
     {
-      "question": "What is your favorite color?",
+      "question": "A super strong alien wants to destroy the planet!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Get super excited for a good fight and power up!"
         },
         {
-          "text": "Blue!"
+          "text": "Try to talk it out with them."
         },
         {
-          "text": "Green!"
+          "text": "Run away in fear."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You just finished a 10-hour training session.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Eat 50 bowls of rice and meat immediately!"
         },
         {
-          "text": "Apples!"
+          "text": "Drink some water and rest."
         },
         {
-          "text": "Nothing!"
+          "text": "Go straight to sleep."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Someone tells you they are the strongest in the universe.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Say 'Wow, let's fight right now!'"
         },
         {
-          "text": "The Beach!"
+          "text": "Don't believe them."
         },
         {
-          "text": "My room!"
+          "text": "Cry because I want to be strongest."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You need to travel very far, very fast.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Use Instant Transmission!"
         },
         {
-          "text": "A tiger!"
+          "text": "Ride the Flying Nimbus cloud."
         },
         {
-          "text": "A ghost!"
+          "text": "Walk."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "Your friends are badly hurt in battle.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Give them a magic Senzu Bean!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Call an ambulance."
         },
         {
-          "text": "Sleeping!"
+          "text": "Run away to save myself."
         }
       ]
     }
   ],
   "bheem": [
     {
-      "question": "What is your favorite color?",
+      "question": "Dholakpur is under attack by a magical demon!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Eat some Laddoos and gain super strength!"
         },
         {
-          "text": "Blue!"
+          "text": "Tell the King about it."
         },
         {
-          "text": "Green!"
+          "text": "Hide in my house."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Tuntun Mausi made a fresh batch of Laddoos.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Ask politely and eat a giant handful!"
         },
         {
-          "text": "Apples!"
+          "text": "Save them for the village."
         },
         {
-          "text": "Nothing!"
+          "text": "Throw them on the ground."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Kalia is challenging you to a wrestling match.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Accept with a smile and win easily!"
         },
         {
-          "text": "The Beach!"
+          "text": "Refuse the challenge."
         },
         {
-          "text": "My room!"
+          "text": "Run away crying."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You need to help Chutki carry heavy baskets.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Carry all of them on my head!"
         },
         {
-          "text": "A tiger!"
+          "text": "Help her carry one."
         },
         {
-          "text": "A ghost!"
+          "text": "Tell her to carry them herself."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "A tiger has escaped the jungle!",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Wrestle the tiger and tame him!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Call the forest guards."
         },
         {
-          "text": "Sleeping!"
+          "text": "Ignore the tiger."
         }
       ]
     }
   ],
   "motu": [
     {
-      "question": "What is your favorite color?",
+      "question": "You are feeling very, very hungry.",
       "options": [
         {
-          "text": "Red!"
+          "text": "Eat hundreds of Samosas immediately!"
         },
         {
-          "text": "Blue!"
+          "text": "Eat a normal sandwich."
         },
         {
-          "text": "Green!"
+          "text": "Drink some water."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "John the Don is causing trouble in Furfuri Nagar!",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Get Samosa power and bash him up!"
         },
         {
-          "text": "Apples!"
+          "text": "Tell Inspector Chingum."
         },
         {
-          "text": "Nothing!"
+          "text": "Run away."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You have an empty stomach.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Cry that my brain isn't working!"
         },
         {
-          "text": "The Beach!"
+          "text": "Wait patiently for lunch."
         },
         {
-          "text": "My room!"
+          "text": "I don't care."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "Patlu has a brilliant plan to catch a thief.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Accidentally ruin the plan by doing something silly!"
         },
         {
-          "text": "A tiger!"
+          "text": "Follow the plan perfectly."
         },
         {
-          "text": "A ghost!"
+          "text": "Go to sleep instead."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You see a chaiwala (tea seller) making fresh samosas.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Run over and buy the whole batch!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Buy just one."
         },
         {
-          "text": "Sleeping!"
+          "text": "Walk past it."
         }
       ]
     }
   ],
   "patlu": [
     {
-      "question": "What is your favorite color?",
+      "question": "Motu is stuck in a giant trap!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Think super fast and invent a clever gadget to save him!"
         },
         {
-          "text": "Blue!"
+          "text": "Call for help."
         },
         {
-          "text": "Green!"
+          "text": "Leave him there."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "John the Don challenges you to a battle of wits.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Outsmart him with my brain power!"
         },
         {
-          "text": "Apples!"
+          "text": "Try to fight him with my fists."
         },
         {
-          "text": "Nothing!"
+          "text": "Run away."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Motu ate all your food.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Sigh and say 'Oh Motu...'"
         },
         {
-          "text": "The Beach!"
+          "text": "Get really angry and yell."
         },
         {
-          "text": "My room!"
+          "text": "Smile and hug him."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You found a complicated puzzle box.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Solve it in 5 seconds!"
         },
         {
-          "text": "A tiger!"
+          "text": "Read the instructions."
         },
         {
-          "text": "A ghost!"
+          "text": "Smash it with a hammer."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You need to cross a broken bridge.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Use math and ropes to swing across perfectly."
         },
         {
-          "text": "Invisibility!"
+          "text": "Walk around the river."
         },
         {
-          "text": "Sleeping!"
+          "text": "Jump and hope for the best."
         }
       ]
     }
   ],
   "dora": [
     {
-      "question": "What is your favorite color?",
+      "question": "Swiper the Fox is trying to sneak up!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Yell 'Swiper, no swiping!' three times!"
         },
         {
-          "text": "Blue!"
+          "text": "Hide behind a tree."
         },
         {
-          "text": "Green!"
+          "text": "Let him swipe my things."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "We don't know the way to the Snowy Mountains!",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Look in the magical Backpack!"
         },
         {
-          "text": "Apples!"
+          "text": "Ask Map!"
         },
         {
-          "text": "Nothing!"
+          "text": "Give up and go home."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Boots the Monkey is stuck in a tall tree.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Find a vine to climb up and save him!"
         },
         {
-          "text": "The Beach!"
+          "text": "Call a firefighter."
         },
         {
-          "text": "My room!"
+          "text": "Leave him there."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "We found a secret Spanish phrase on a door.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Read it out loud: ¡Abrete!"
         },
         {
-          "text": "A tiger!"
+          "text": "Ignore it."
         },
         {
-          "text": "A ghost!"
+          "text": "Break the door."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You need to cross the Troll Bridge.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Solve the Grumpy Old Troll's riddle!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Swim across the river instead."
         },
         {
-          "text": "Sleeping!"
+          "text": "Cry."
         }
       ]
     }
   ],
   "mickey": [
     {
-      "question": "What is your favorite color?",
+      "question": "Pete is causing trouble in the clubhouse!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use a Mouseketool to fix the problem! Hot Dog!"
         },
         {
-          "text": "Blue!"
+          "text": "Tell him to go away."
         },
         {
-          "text": "Green!"
+          "text": "Hide in the closet."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Donald Duck is getting very angry.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Say 'Oh boy!' and try to calm him down."
         },
         {
-          "text": "Apples!"
+          "text": "Laugh at him."
         },
         {
-          "text": "Nothing!"
+          "text": "Yell back at him."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You need a special tool to open a door.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Call Toodles for a Mouseketool!"
         },
         {
-          "text": "The Beach!"
+          "text": "Kick the door open."
         },
         {
-          "text": "My room!"
+          "text": "Walk away."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "It's time for the Hot Dog Dance!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Dance and sing along happily!"
         },
         {
-          "text": "A tiger!"
+          "text": "Sit perfectly still."
         },
         {
-          "text": "A ghost!"
+          "text": "Cover my ears."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You found Pluto lost in the park.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Give him a big hug and a bone!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Pat him on the head."
         },
         {
-          "text": "Sleeping!"
+          "text": "Run away from him."
         }
       ]
     }
   ],
   "elsa": [
     {
-      "question": "What is your favorite color?",
+      "question": "The kingdom of Arendelle is in danger!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Use my ice magic to build a giant shield!"
         },
         {
-          "text": "Blue!"
+          "text": "Ask Anna to save it."
         },
         {
-          "text": "Green!"
+          "text": "Run up the North Mountain."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You need to cross a giant river of water.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Freeze the water and run across!"
         },
         {
-          "text": "Apples!"
+          "text": "Build a wooden boat."
         },
         {
-          "text": "Nothing!"
+          "text": "Swim across normally."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Someone asks to see your powers.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Shoot beautiful snowflakes into the sky!"
         },
         {
-          "text": "The Beach!"
+          "text": "Hide my hands in my pockets."
         },
         {
-          "text": "My room!"
+          "text": "Throw a snowball at them."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "Olaf is melting in the summer sun!",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Create a magical personal snow flurry for him!"
         },
         {
-          "text": "A tiger!"
+          "text": "Put him in a freezer."
         },
         {
-          "text": "A ghost!"
+          "text": "Let him melt."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "It's time to let it go.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Sing loudly and build an ice castle!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Whisper quietly."
         },
         {
-          "text": "Sleeping!"
+          "text": "Stay silent."
         }
       ]
     }
   ],
   "spiderman": [
     {
-      "question": "What is your favorite color?",
+      "question": "The Green Goblin is flying over the city!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Shoot a web and swing into action!"
         },
         {
-          "text": "Blue!"
+          "text": "Call the police."
         },
         {
-          "text": "Green!"
+          "text": "Hide under a car."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You need to stop a falling train car.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Shoot hundreds of webs to hold it back!"
         },
         {
-          "text": "Apples!"
+          "text": "Push it with my bare hands."
         },
         {
-          "text": "Nothing!"
+          "text": "Let it crash."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "Your Spidey-Sense starts tingling!",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Do a backflip to dodge the danger!"
         },
         {
-          "text": "The Beach!"
+          "text": "Look around slowly."
         },
         {
-          "text": "My room!"
+          "text": "Ignore it."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You are late for school.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Web-swing through the city to get there fast!"
         },
         {
-          "text": "A tiger!"
+          "text": "Take the bus."
         },
         {
-          "text": "A ghost!"
+          "text": "Skip school."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You need to take a picture of Spider-Man for the newspaper.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Set up a camera with a web-timer and take a selfie!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Draw a picture instead."
         },
         {
-          "text": "Sleeping!"
+          "text": "Quit my job."
         }
       ]
     }
   ],
   "mcqueen": [
     {
-      "question": "What is your favorite color?",
+      "question": "You are in the final lap of the Piston Cup!",
       "options": [
         {
-          "text": "Red!"
+          "text": "Say 'Kachow!' and speed past everyone!"
         },
         {
-          "text": "Blue!"
+          "text": "Drive at a normal speed."
         },
         {
-          "text": "Green!"
+          "text": "Stop driving."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Mater needs help towing a heavy truck.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Use my engine power to help pull him!"
         },
         {
-          "text": "Apples!"
+          "text": "Watch him struggle."
         },
         {
-          "text": "Nothing!"
+          "text": "Drive away fast."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You need a new paint job before the big race.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Get shiny red paint with lightning bolts!"
         },
         {
-          "text": "The Beach!"
+          "text": "Get boring grey paint."
         },
         {
-          "text": "My room!"
+          "text": "Don't get painted."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "The track is covered in dirt and mud.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Drift around the corners perfectly!"
         },
         {
-          "text": "A tiger!"
+          "text": "Drive very slowly."
         },
         {
-          "text": "A ghost!"
+          "text": "Crash into the wall."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "You see a fan holding your cheering sign.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Rev my engine and flash my headlights!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Drive past quietly."
         },
         {
-          "text": "Sleeping!"
+          "text": "Honk angrily."
         }
       ]
     }
   ],
   "minion": [
     {
-      "question": "What is your favorite color?",
+      "question": "Gru gives you a very important laser gun to hold.",
       "options": [
         {
-          "text": "Red!"
+          "text": "Accidentally shoot my friend and laugh ('Hehe, bottom')!"
         },
         {
-          "text": "Blue!"
+          "text": "Hold it very carefully."
         },
         {
-          "text": "Green!"
+          "text": "Throw it in the trash."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "You see a giant banana on the table.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Yell 'BANANA!' and tackle the table!"
         },
         {
-          "text": "Apples!"
+          "text": "Eat it politely."
         },
         {
-          "text": "Nothing!"
+          "text": "Ignore the banana."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "You are supposed to be building a rocket.",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Sing a weird gibberish song and hit things with a wrench!"
         },
         {
-          "text": "The Beach!"
+          "text": "Read the blueprints."
         },
         {
-          "text": "My room!"
+          "text": "Take a nap."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "Another minion sticks his tongue out at you.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Start a giant slap fight!"
         },
         {
-          "text": "A tiger!"
+          "text": "Ignore him."
         },
         {
-          "text": "A ghost!"
+          "text": "Cry."
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "Agnes needs a new unicorn toy.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Build a chaotic toy out of garbage and glue!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Go to the store."
         },
         {
-          "text": "Sleeping!"
+          "text": "Tell her no."
         }
       ]
     }
   ],
   "scooby": [
     {
-      "question": "What is your favorite color?",
+      "question": "You are exploring a haunted, spooky house.",
       "options": [
         {
-          "text": "Red!"
+          "text": "Jump into Shaggy's arms and shake with fear!"
         },
         {
-          "text": "Blue!"
+          "text": "Walk bravely with a flashlight."
         },
         {
-          "text": "Green!"
+          "text": "Chase the ghost."
         }
       ]
     },
     {
-      "question": "What do you like to eat?",
+      "question": "Velma offers you a Scooby Snack.",
       "options": [
         {
-          "text": "Pizza!"
+          "text": "Eat it instantly and get brave!"
         },
         {
-          "text": "Apples!"
+          "text": "Say 'No thank you'."
         },
         {
-          "text": "Nothing!"
+          "text": "Throw it on the floor."
         }
       ]
     },
     {
-      "question": "Where would you go on an adventure?",
+      "question": "The ghost is chasing you down the hallway!",
       "options": [
         {
-          "text": "The Moon!"
+          "text": "Run through a bunch of crazy doors in a sequence!"
         },
         {
-          "text": "The Beach!"
+          "text": "Stand still and punch the ghost."
         },
         {
-          "text": "My room!"
+          "text": "Wait to be caught."
         }
       ]
     },
     {
-      "question": "Who is your best friend?",
+      "question": "You hear a scary noise in the kitchen.",
       "options": [
         {
-          "text": "A dog!"
+          "text": "Hide under the table."
         },
         {
-          "text": "A tiger!"
+          "text": "Go outside."
         },
         {
-          "text": "A ghost!"
+          "text": "Scream 'Ruh-Roh!'"
         }
       ]
     },
     {
-      "question": "What is your superpower?",
+      "question": "Fred caught the monster in a trap.",
       "options": [
         {
-          "text": "Flying!"
+          "text": "Pull off the monster's rubber mask!"
         },
         {
-          "text": "Invisibility!"
+          "text": "Watch him do it."
         },
         {
-          "text": "Sleeping!"
+          "text": "Run away again."
         }
       ]
     }

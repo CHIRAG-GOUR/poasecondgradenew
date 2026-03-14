@@ -137,7 +137,7 @@ app.post('/api/gemini/report', async (req, res) => {
       Make the Combat Stats fun, totally subjective, and related to their specific answers. Return ONLY raw JSON without markdown formatting.
     `;
 
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
     const result = await model.generateContent(prompt);
     
     let text = result.response.text().trim();
