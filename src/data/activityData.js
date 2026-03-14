@@ -1,6 +1,6 @@
 // ============================================================
 // CENTRAL ACTIVITY DATA
-// All content for "My Favourite Character" – Skillizee Grade 2-3
+// "My Favourite Character" – Skillizee Grade 2-3
 // ============================================================
 
 export const activityData = {
@@ -44,31 +44,38 @@ export const activityData = {
     {
       id: "module-2",
       slug: "module-2",
-      title: "Activity Execution",
-      emoji: "🎨",
-      color: "from-purple-400 to-pink-500",
+      title: "Character Quest",
+      emoji: "🎮",
+      color: "from-purple-500 to-pink-500",
       bgColor: "bg-purple-50",
       chapters: [
         {
+          id: "intro",
+          slug: "intro",
+          title: "Student Intro",
+          emoji: "🎒",
+          subtitle: "Tell us about yourself!",
+        },
+        {
           id: "chapter-2-1",
           slug: "chapter-2-1",
-          title: "Problem Statement",
-          emoji: "🖼️",
-          subtitle: "Show your character!",
+          title: "Character Arena",
+          emoji: "🎮",
+          subtitle: "Choose your character!",
         },
         {
           id: "chapter-2-2",
           slug: "chapter-2-2",
-          title: "Discussion Time",
-          emoji: "🗣️",
-          subtitle: "Share your thoughts!",
+          title: "Personality Questions",
+          emoji: "🧠",
+          subtitle: "Discover who you are!",
         },
         {
           id: "chapter-2-3",
           slug: "chapter-2-3",
-          title: "Key Takeaways",
-          emoji: "⭐",
-          subtitle: "Reflect and grow!",
+          title: "My Character Report",
+          emoji: "🏆",
+          subtitle: "See your results!",
         },
       ],
     },
@@ -76,7 +83,7 @@ export const activityData = {
 };
 
 // ============================================================
-// CHAPTER 1.1 – Introduction Content
+// MODULE 1 – CHAPTER 1.1 – Introduction Content
 // ============================================================
 export const mentorQuestions = [
   {
@@ -116,7 +123,6 @@ export const infographics = [
     borderColor: "border-yellow-300",
     examples: ["Standing up for a friend", "Trying something new", "Asking for help"],
     characters: ["Po (Kung Fu Panda)"],
-    url: "https://docs.google.com/presentation/d/e/2PACX-1vQBravery/pub?start=false",
     image: "/images/kungfu.jpg",
   },
   {
@@ -129,7 +135,6 @@ export const infographics = [
     borderColor: "border-pink-300",
     examples: ["Sharing with friends", "Caring for your family", "Helping someone"],
     characters: ["Winnie the Pooh"],
-    url: "https://docs.google.com/presentation/d/e/2PACX-1vQKindness/pub",
     image: "/images/winnie.png",
   },
   {
@@ -142,7 +147,6 @@ export const infographics = [
     borderColor: "border-blue-300",
     examples: ["Coming up with new ideas", "Solving puzzles", "Learning new things"],
     characters: ["Harry Potter"],
-    url: "https://docs.google.com/presentation/d/e/2PACX-1vQIntelligence/pub",
     image: "/images/harry.png",
   },
   {
@@ -155,7 +159,6 @@ export const infographics = [
     borderColor: "border-green-300",
     examples: ["Telling funny jokes", "Being playful", "Making friends smile"],
     characters: ["Tom and Jerry"],
-    url: "https://docs.google.com/presentation/d/e/2PACX-1vQHumor/pub",
     image: "/images/tomjerry.png",
   },
   {
@@ -168,13 +171,12 @@ export const infographics = [
     borderColor: "border-purple-300",
     examples: ["Drawing and painting", "Inventing new moves", "Building new things"],
     characters: ["Naruto"],
-    url: "https://docs.google.com/presentation/d/e/2PACX-1vQCreativity/pub",
     image: "/images/naruto_v2.jpg",
   },
 ];
 
 // ============================================================
-// CHAPTER 1.2 – Watch & Learn Content
+// MODULE 1 – CHAPTER 1.2 – Watch & Learn Content
 // ============================================================
 export const videos = [
   {
@@ -228,7 +230,7 @@ export const observationQuestions = [
 ];
 
 // ============================================================
-// CHAPTER 1.3 – Interactive Quiz Content
+// MODULE 1 – CHAPTER 1.3 – Interactive Quiz Content
 // ============================================================
 export const quizQuestions = [
   {
@@ -311,152 +313,330 @@ export const riddleCards = [
 ];
 
 // ============================================================
-// CHAPTER 2.1 – Problem Statement Content
+// CHARACTER DATABASE – 20 Kid-Friendly Characters with Images
 // ============================================================
-export const taskInstructions = [
+
+export const characters = [
   {
-    id: "t1",
-    step: "1",
-    emoji: "🎭",
-    title: "Choose Your Character",
-    desc: "Pick your favourite character — from a book, cartoon, movie or story!",
-    color: "from-blue-400 to-cyan-400",
-  },
-  {
-    id: "t2",
-    step: "2",
-    emoji: "🖼️",
-    title: "Draw or Upload",
-    desc: "Draw your character OR upload a picture. Show us what they look like!",
-    color: "from-purple-400 to-pink-400",
-  },
-  {
-    id: "t3",
-    step: "3",
-    emoji: "✍️",
-    title: "Answer Questions",
-    desc: "Tell us WHY you love this character and what quality you want to be like them!",
+    id: "naruto",
+    name: "Naruto",
     color: "from-orange-400 to-yellow-400",
+    bgColor: "#F97316",
+    image: "/images/characters/naruto.png",
+    gif: "/images/characters/naruto_shadowclone.gif",
+    themeSong: "/sounds/themes/naruto.mp3",
+    traits: ["Brave", "Energetic", "Loyal"],
+    description: "Naruto is a cheerful ninja who never gives up! He dreams of becoming Hokage and always protects his friends with his Shadow Clone Jutsu and Rasengan.",
+    relationship: "You never give up and always protect your friends, just like Naruto's Ninja Way!",
+    scores: { bravery: 10, humour: 6, cuteness: 5, fightIq: 8, power: 9, speed: 8 },
   },
   {
-    id: "t4",
-    step: "4",
-    emoji: "🚀",
-    title: "Submit Your Work",
-    desc: "Submit your activity when you're done. Great work, superstar!",
+    id: "pikachu",
+    name: "Pikachu",
+    color: "from-yellow-400 to-amber-400",
+    bgColor: "#FACC15",
+    image: "/images/characters/pikachu.png",
+    gif: "/images/characters/pikachu.gif",
+    themeSong: "/sounds/themes/pikachu.mp3",
+    traits: ["Loyal", "Energetic", "Cute"],
+    description: "Pikachu is a friendly and loyal electric Pokémon! It loves its trainer Ash and never gives up in battle, using its quick attack and thunderbolt.",
+    relationship: "You are energetic, shockingly awesome, and extremely loyal to your best friends!",
+    scores: { bravery: 8, humour: 5, cuteness: 10, fightIq: 7, power: 8, speed: 9 },
+  },
+  {
+    id: "tom",
+    name: "Tom",
+    color: "from-blue-400 to-indigo-400",
+    bgColor: "#60A5FA",
+    image: "/images/characters/tom.png",
+    gif: "/images/characters/tom.gif",
+    themeSong: "/sounds/themes/tom.mp3",
+    traits: ["Funny", "Clever", "Persistent"],
+    description: "Tom is a mischievous cat who's always chasing Jerry with hilarious plans that never quite work out! He's creative and never stops trying.",
+    relationship: "You have a great sense of humor and you creatively try again even when things go wrong!",
+    scores: { bravery: 6, humour: 10, cuteness: 6, fightIq: 5, power: 6, speed: 7 },
+  },
+  {
+    id: "jerry",
+    name: "Jerry",
+    color: "from-amber-400 to-orange-400",
+    bgColor: "#FBBF24",
+    image: "/images/characters/jerry.png",
+    gif: "/images/characters/jerry.gif",
+    themeSong: "/sounds/themes/jerry.mp3",
+    traits: ["Smart", "Funny", "Quick"],
+    description: "Jerry is a clever little mouse who always outsmarts Tom! Despite being tiny, he's brave and uses his big brain to escape every trap.",
+    relationship: "You are small but mighty! Your intelligence and quick thinking help you solve any puzzle.",
+    scores: { bravery: 7, humour: 9, cuteness: 8, fightIq: 10, power: 3, speed: 10 },
+  },
+  {
+    id: "po",
+    name: "Po",
     color: "from-green-400 to-emerald-400",
+    bgColor: "#4ADE80",
+    image: "/images/characters/po.png",
+    gif: "/images/characters/po.gif",
+    themeSong: "/sounds/themes/po.mp3",
+    traits: ["Brave", "Funny", "KungFuMaster"],
+    description: "Po is the Dragon Warrior from Kung Fu Panda! He's a lovable, funny panda who proves that anyone can be a hero with bravery and heart.",
+    relationship: "You believe in yourself and know that true strength comes from a kind heart and a good laugh!",
+    scores: { bravery: 9, humour: 10, cuteness: 7, fightIq: 8, power: 10, speed: 5 },
+  },
+  {
+    id: "doraemon",
+    name: "Doraemon",
+    color: "from-blue-500 to-cyan-400",
+    bgColor: "#3B82F6",
+    image: "/images/characters/doraemon.png",
+    gif: "/images/characters/doraemon.gif",
+    themeSong: "/sounds/themes/doraemon.mp3",
+    traits: ["Helpful", "Smart", "GadgetMaster"],
+    description: "Doraemon is a robot cat from the future with a magic pocket full of amazing gadgets! He always helps his friend Nobita solve problems.",
+    relationship: "You love helping others and you always have a smart solution to every problem!",
+    scores: { bravery: 5, humour: 7, cuteness: 8, fightIq: 9, power: 7, speed: 5 },
+  },
+  {
+    id: "spongebob",
+    name: "SpongeBob",
+    color: "from-yellow-300 to-lime-400",
+    bgColor: "#FDE047",
+    image: "/images/characters/spongebob.png",
+    gif: "/images/characters/spongebob.gif",
+    themeSong: "/sounds/themes/spongebob.mp3",
+    traits: ["Funny", "Happy", "Helpful"],
+    description: "SpongeBob lives in a pineapple under the sea! He's the happiest sponge ever, always making people laugh and being the best friend to Patrick.",
+    relationship: "Your positivity and laughter can light up the darkest corners of the ocean!",
+    scores: { bravery: 6, humour: 10, cuteness: 9, fightIq: 4, power: 4, speed: 6 },
+  },
+  {
+    id: "shinchan",
+    name: "Shinchan",
+    color: "from-red-400 to-pink-400",
+    bgColor: "#FB7185",
+    image: "/images/characters/shinchan.png",
+    gif: "/images/characters/shinchan.gif",
+    themeSong: "/sounds/themes/shinchan.mp3",
+    traits: ["Funny", "Brave", "Mischievous"],
+    description: "Shinchan is a naughty little boy from Japan who always makes everyone laugh! He's mischievous, brave, and loves his family and friends.",
+    relationship: "You are hilariously unpredictable and always march to the beat of your own drum!",
+    scores: { bravery: 8, humour: 10, cuteness: 8, fightIq: 6, power: 5, speed: 7 },
+  },
+  {
+    id: "goku",
+    name: "Goku",
+    color: "from-orange-500 to-red-500",
+    bgColor: "#F97316",
+    image: "/images/characters/goku.png",
+    gif: "/images/characters/goku.gif",
+    themeSong: "/sounds/themes/goku.mp3",
+    traits: ["Brave", "Strong", "Fighter"],
+    description: "Goku is the strongest warrior in Dragon Ball! He trains super hard, loves fighting tough opponents, and always protects Earth from villains.",
+    relationship: "You are a warrior at heart! You push your limits and always defend what is right.",
+    scores: { bravery: 10, humour: 5, cuteness: 3, fightIq: 9, power: 10, speed: 10 },
+  },
+  {
+    id: "bheem",
+    name: "Chhota Bheem",
+    color: "from-yellow-500 to-orange-500",
+    bgColor: "#EAB308",
+    image: "/images/characters/bheem.png",
+    gif: "/images/characters/chota bheem.gif",
+    themeSong: "/sounds/themes/bheem.mp3",
+    traits: ["Brave", "Strong", "Helpful"],
+    description: "Chhota Bheem is the strongest boy in Dholakpur! He eats laddoos to get super powers and always saves his town and friends from trouble.",
+    relationship: "You are courageous and strong! You always stand up for your friends and do the right thing.",
+    scores: { bravery: 10, humour: 5, cuteness: 6, fightIq: 7, power: 9, speed: 7 },
+  },
+  {
+    id: "motu",
+    name: "Motu",
+    color: "from-amber-500 to-yellow-400",
+    bgColor: "#F59E0B",
+    image: "/images/characters/motu.png",
+    gif: "/images/characters/motu.gif",
+    themeSong: "/sounds/themes/motu.mp3",
+    traits: ["Funny", "Brave", "Strong"],
+    description: "Motu is a lovable, funny guy who loves eating samosas! When he eats samosas, he gets super strength to fight bad guys with his buddy Patlu.",
+    relationship: "You are powerfully funny and you know that a good snack can solve any problem!",
+    scores: { bravery: 8, humour: 9, cuteness: 6, fightIq: 4, power: 10, speed: 5 },
+  },
+  {
+    id: "patlu",
+    name: "Patlu",
+    color: "from-teal-400 to-cyan-400",
+    bgColor: "#2DD4BF",
+    image: "/images/characters/patlu.png",
+    gif: "/images/characters/patlu.gif",
+    themeSong: "/sounds/themes/patlu.mp3",
+    traits: ["Smart", "Clever", "Helpful"],
+    description: "Patlu is the smartest person in Furfuri Nagar! He always comes up with clever plans to solve problems and help his best friend Motu.",
+    relationship: "Your Fight IQ is off the charts! You use your brain to win battles without throwing a punch.",
+    scores: { bravery: 5, humour: 6, cuteness: 5, fightIq: 10, power: 3, speed: 5 },
+  },
+  {
+    id: "elsa",
+    name: "Elsa",
+    color: "from-cyan-400 to-blue-500",
+    bgColor: "#22D3EE",
+    image: "/images/characters/elsa.png",
+    gif: "/images/characters/elsa.gif",
+    themeSong: "/sounds/themes/elsa.mp3",
+    traits: ["Brave", "Magical", "Smart"],
+    description: "Elsa is a brave queen with incredible ice powers! She learned to embrace who she is and protects her kingdom and her sister Anna.",
+    relationship: "You are not afraid to be yourself! Your unique magical talents make you incredibly strong.",
+    scores: { bravery: 9, humour: 4, cuteness: 7, fightIq: 8, power: 10, speed: 6 },
+  },
+  {
+    id: "mcqueen",
+    name: "Lightning McQueen",
+    color: "from-red-500 to-rose-500",
+    bgColor: "#EF4444",
+    image: "/images/characters/mcqueen.png",
+    gif: "/images/characters/mcqueen.gif",
+    themeSong: "/sounds/themes/mcqueen.mp3",
+    traits: ["Fast", "Brave", "Racer"],
+    description: "Lightning McQueen is the fastest race car alive! He learned that having good friends matters more than winning every race.",
+    relationship: "You are lightning fast! But you also know that the journey with friends is the real prize.",
+    scores: { bravery: 8, humour: 6, cuteness: 5, fightIq: 7, power: 8, speed: 10 },
+  },
+  {
+    id: "mickey",
+    name: "Mickey Mouse",
+    color: "from-red-400 to-yellow-400",
+    bgColor: "#F87171",
+    image: "/images/characters/mickey.png",
+    gif: "/images/characters/mickey.gif",
+    themeSong: "/sounds/themes/mickey.mp3",
+    traits: ["Kind", "Helpful", "Happy"],
+    description: "Mickey Mouse is everyone's best friend! He's kind, cheerful, and always goes on fun adventures with his friends Donald, Goofy, and Minnie.",
+    relationship: "Your cheerful attitude and kindness make you a natural leader among your friends!",
+    scores: { bravery: 7, humour: 8, cuteness: 9, fightIq: 6, power: 5, speed: 7 },
+  },
+  {
+    id: "minion",
+    name: "Minion",
+    color: "from-yellow-400 to-amber-300",
+    bgColor: "#FACC15",
+    image: "/images/characters/minion.png",
+    gif: "/images/characters/minion.gif",
+    themeSong: "/sounds/themes/minion.mp3",
+    traits: ["Funny", "Loyal", "Curious"],
+    description: "Minions are tiny yellow creatures who love bananas and stick together! They're hilarious, loyal, and always get into funny adventures.",
+    relationship: "You are the ultimate team player! Your humor and loyalty bring joy to everyone around.",
+    scores: { bravery: 5, humour: 10, cuteness: 9, fightIq: 5, power: 5, speed: 6 },
+  },
+  {
+    id: "scooby",
+    name: "Scooby-Doo",
+    color: "from-amber-500 to-yellow-500",
+    bgColor: "#D97706",
+    image: "/images/characters/scooby.png",
+    gif: "/images/characters/scooby.gif",
+    themeSong: "/sounds/themes/scooby.mp3",
+    traits: ["Funny", "Curious", "Loyal"],
+    description: "Scooby-Doo is a lovable Great Dane who solves mysteries with his best friend Shaggy! He's a bit scared but always helps catch the villain.",
+    relationship: "You might get scared sometimes, but your bravery and curiosity always save the day!",
+    scores: { bravery: 5, humour: 9, cuteness: 8, fightIq: 6, power: 6, speed: 8 },
+  },
+  {
+    id: "spiderman",
+    name: "Spider-Man",
+    color: "from-red-500 to-blue-600",
+    bgColor: "#DC2626",
+    image: "/images/characters/spiderman.png",
+    gif: "/images/characters/spiderman.gif",
+    themeSong: "/sounds/themes/spiderman.mp3",
+    traits: ["Brave", "Helpful", "Smart"],
+    description: "Spider-Man uses his spider powers to swing through the city and help people! He believes that with great power comes great responsibility.",
+    relationship: "You have a great heart and sharp instincts! You use your incredible talents to protect others.",
+    scores: { bravery: 10, humour: 8, cuteness: 4, fightIq: 9, power: 9, speed: 10 },
+  },
+  {
+    id: "dora",
+    name: "Dora",
+    color: "from-pink-400 to-purple-400",
+    bgColor: "#F472B6",
+    image: "/images/characters/dora.png",
+    gif: "/images/characters/dora.gif",
+    themeSong: "/sounds/themes/dora.mp3",
+    traits: ["Explorer", "Curious", "Helpful"],
+    description: "Dora is an explorer who loves going on adventures! She solves puzzles, speaks Spanish, and always helps her friends with her trusty backpack.",
+    relationship: "You are an ultimate explorer! Your curiosity and clever problem-solving take you everywhere.",
+    scores: { bravery: 8, humour: 5, cuteness: 7, fightIq: 8, power: 5, speed: 7 },
   },
 ];
 
 // ============================================================
-// CHAPTER 2.2 – Discussion Prompts
+// PERSONALITY REFLECTION QUESTIONS (Module 2)
 // ============================================================
-export const presentationPrompts = [
-  {
-    id: "pp1",
-    emoji: "🎭",
-    prompt: "Explain who your character is and where they are from.",
-    color: "bg-blue-100 border-blue-300",
-  },
-  {
-    id: "pp2",
-    emoji: "💭",
-    prompt: "Explain WHY you relate to this character.",
-    color: "bg-purple-100 border-purple-300",
-  },
-  {
-    id: "pp3",
-    emoji: "⭐",
-    prompt: "Share ONE special quality of your character that you admire.",
-    color: "bg-yellow-100 border-yellow-300",
-  },
-];
 
-export const peerQuestions = [
+export const personalityQuestions = [
   {
     id: "pq1",
-    emoji: "❓",
-    question: "Why is this your favourite character?",
-    points: 1,
+    question: "Why do you like this character?",
+    type: "single",
+    options: [
+      { id: "a", text: "They have cool powers and fight strong guys", traits: { power: 3, bravery: 2 } },
+      { id: "b", text: "They are really funny and make me laugh", traits: { humour: 3, cuteness: 1 } },
+      { id: "c", text: "They outsmart the bad guys with their brain", traits: { fightIq: 3 } },
+      { id: "d", text: "They are super fast and zoom around", traits: { speed: 3, bravery: 1 } },
+    ],
   },
   {
     id: "pq2",
-    emoji: "🤔",
-    question: "What would you do in their place?",
-    points: 1,
+    question: "What is your best combat skill?",
+    type: "single",
+    options: [
+      { id: "a", text: "Super Strength!", traits: { power: 3 } },
+      { id: "b", text: "Super Speed!", traits: { speed: 3 } },
+      { id: "c", text: "Being too cute to attack", traits: { cuteness: 3, humour: 1 } },
+      { id: "d", text: "Big brain strategies", traits: { fightIq: 3 } },
+    ],
   },
   {
     id: "pq3",
-    emoji: "🌟",
-    question: "What quality do you want to learn from them?",
-    points: 1,
+    question: "Are you brave like your character?",
+    type: "single",
+    options: [
+      { id: "a", text: "Yes! I charge into battle!", traits: { bravery: 3, power: 1 } },
+      { id: "b", text: "Only if my friends need me", traits: { bravery: 2, fightIq: 1 } },
+      { id: "c", text: "I prefer to sneak around really fast", traits: { speed: 3, fightIq: 1 } },
+    ],
   },
   {
     id: "pq4",
-    emoji: "🎬",
-    question: "Which scene from the story did you like most?",
-    points: 1,
+    question: "If a giant monster appears, what do you do?",
+    type: "single",
+    options: [
+      { id: "a", text: "Fight it head on!", traits: { power: 3, bravery: 2 } },
+      { id: "b", text: "Tell a joke to confuse it", traits: { humour: 3, fightIq: 1 } },
+      { id: "c", text: "Set a clever trap", traits: { fightIq: 3, speed: 1 } },
+      { id: "d", text: "Run super fast!", traits: { speed: 3, cuteness: 1 } },
+    ],
   },
   {
     id: "pq5",
-    emoji: "🦸",
-    question: "Would you like to be this character? Why?",
-    points: 1,
+    question: "How do you win a race?",
+    type: "single",
+    options: [
+      { id: "a", text: "I just run the fastest!", traits: { speed: 3 } },
+      { id: "b", text: "I find a smart shortcut", traits: { fightIq: 3 } },
+      { id: "c", text: "I accidentally win by slipping on a banana", traits: { humour: 3 } },
+      { id: "d", text: "I give everyone a hug instead", traits: { cuteness: 3 } },
+    ],
   },
 ];
 
 // ============================================================
-// CHAPTER 2.3 – Key Takeaways
+// TRAIT DEFINITIONS
 // ============================================================
-export const reflectionCards = [
-  {
-    id: "rc1",
-    title: "Self Awareness",
-    emoji: "🪞",
-    desc: "You learned about yourself — what qualities you have and which ones you want to grow!",
-    color: "from-blue-400 to-indigo-500",
-    bgColor: "bg-blue-50",
-    insight: "Like Elsa (Frozen), I know myself better now!",
-    image: "/images/elsa.png",
-  },
-  {
-    id: "rc2",
-    title: "Communication Skills",
-    emoji: "🗣️",
-    desc: "You practiced sharing your ideas clearly and listening to your classmates.",
-    color: "from-purple-400 to-pink-500",
-    bgColor: "bg-purple-50",
-    insight: "Like Pikachu, I can express my thoughts clearly!",
-    image: "/images/spongebob.png",
-  },
-  {
-    id: "rc3",
-    title: "Creativity",
-    emoji: "🎨",
-    desc: "You used your imagination to draw, create and express your character in a unique way!",
-    color: "from-orange-400 to-yellow-400",
-    bgColor: "bg-orange-50",
-    insight: "Like Phineas, my imagination is powerful!",
-    image: "/images/phineas.png",
-  },
-  {
-    id: "rc4",
-    title: "Empathy",
-    emoji: "💗",
-    desc: "You thought about how characters feel and why they act the way they do.",
-    color: "from-pink-400 to-rose-500",
-    bgColor: "bg-pink-50",
-    insight: "Like Pooh, I can feel and understand others!",
-    image: "/images/winnie.png",
-  },
-  {
-    id: "rc5",
-    title: "Collaboration",
-    emoji: "🤝",
-    desc: "You worked together, listened to each other, and learned from your classmates!",
-    color: "from-green-400 to-teal-500",
-    bgColor: "bg-green-50",
-    insight: "Like Woody and Buzz, we learn better together!",
-    image: "/images/collaboration_new.jpg",
-  },
-];
+
+export const traitDefinitions = {
+  power: { name: "Power", emoji: "💥", color: "from-red-500 to-orange-500" },
+  fightIq: { name: "Fight IQ", emoji: "🧠", color: "from-indigo-400 to-purple-500" },
+  speed: { name: "Speed", emoji: "⚡", color: "from-yellow-400 to-amber-500" },
+  cuteness: { name: "Cuteness", emoji: "🥺", color: "from-pink-400 to-rose-400" },
+  humour: { name: "Humour", emoji: "😂", color: "from-green-400 to-teal-400" },
+  bravery: { name: "Bravery", emoji: "🦁", color: "from-orange-400 to-red-500" },
+};
+

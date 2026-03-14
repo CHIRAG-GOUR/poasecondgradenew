@@ -4,12 +4,15 @@ import { BrowserRouter } from 'react-router-dom'
 import App from './App.jsx'
 import './index.css'
 import { ProgressProvider } from './context/ProgressContext.jsx'
+import { CharacterProvider } from './context/CharacterContext.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
       <ProgressProvider>
-        <App />
+        <CharacterProvider>
+          <App />
+        </CharacterProvider>
       </ProgressProvider>
     </BrowserRouter>
   </React.StrictMode>,
