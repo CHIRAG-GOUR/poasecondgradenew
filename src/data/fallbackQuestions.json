@@ -1,71 +1,91 @@
 {
   "naruto": [
     {
+      "id": "naruto_q0",
       "question": "A villain is attacking the Hidden Leaf Village! What do you do?",
       "options": [
         {
+          "id": "naruto_q0_opt0",
           "text": "Use Shadow Clones to fight him!"
         },
         {
+          "id": "naruto_q0_opt1",
           "text": "Call for the Hokage!"
         },
         {
+          "id": "naruto_q0_opt2",
           "text": "Run away crying."
         }
       ]
     },
     {
+      "id": "naruto_q1",
       "question": "Your friend is feeling sad. How do you cheer them up?",
       "options": [
         {
+          "id": "naruto_q1_opt0",
           "text": "Buy them a bowl of Ichiraku Ramen!"
         },
         {
+          "id": "naruto_q1_opt1",
           "text": "Give them a high-five."
         },
         {
+          "id": "naruto_q1_opt2",
           "text": "Ignore them."
         }
       ]
     },
     {
+      "id": "naruto_q2",
       "question": "You need to learn a super hard jutsu. How do you train?",
       "options": [
         {
+          "id": "naruto_q2_opt0",
           "text": "Practice all night until I master it!"
         },
         {
+          "id": "naruto_q2_opt1",
           "text": "Read a book about it."
         },
         {
+          "id": "naruto_q2_opt2",
           "text": "Give up, it's too hard."
         }
       ]
     },
     {
+      "id": "naruto_q3",
       "question": "The ninja exams are tomorrow!",
       "options": [
         {
+          "id": "naruto_q3_opt0",
           "text": "I'm pumped and ready to win!"
         },
         {
+          "id": "naruto_q3_opt1",
           "text": "I guess I'll study a bit."
         },
         {
+          "id": "naruto_q3_opt2",
           "text": "I'm going back to sleep."
         }
       ]
     },
     {
+      "id": "naruto_q4",
       "question": "Someone stole your friend's scroll!",
       "options": [
         {
+          "id": "naruto_q4_opt0",
           "text": "Chase them down using ninja speed!"
         },
         {
+          "id": "naruto_q4_opt1",
           "text": "Tell a teacher about it."
         },
         {
+          "id": "naruto_q4_opt2",
           "text": "It's not my problem."
         }
       ]
@@ -73,71 +93,91 @@
   ],
   "pikachu": [
     {
+      "id": "pikachu_q0",
       "question": "Team Rocket is trying to steal your snacks! What do you do?",
       "options": [
         {
+          "id": "pikachu_q0_opt0",
           "text": "Use Thunderbolt to zap them!"
         },
         {
+          "id": "pikachu_q0_opt1",
           "text": "Run behind Ash for cover."
         },
         {
+          "id": "pikachu_q0_opt2",
           "text": "Share the snacks with them."
         }
       ]
     },
     {
+      "id": "pikachu_q1",
       "question": "A wild Pokémon appears! How do you greet them?",
       "options": [
         {
+          "id": "pikachu_q1_opt0",
           "text": "Say 'Pika Pika!' with a big smile."
         },
         {
+          "id": "pikachu_q1_opt1",
           "text": "Wave shyly from a distance."
         },
         {
+          "id": "pikachu_q1_opt2",
           "text": "Ignore them completely."
         }
       ]
     },
     {
+      "id": "pikachu_q2",
       "question": "You find a shiny Thunder Stone!",
       "options": [
         {
+          "id": "pikachu_q2_opt0",
           "text": "Refuse it, I like being me!"
         },
         {
+          "id": "pikachu_q2_opt1",
           "text": "Put it in my backpack."
         },
         {
+          "id": "pikachu_q2_opt2",
           "text": "Throw it in the river."
         }
       ]
     },
     {
+      "id": "pikachu_q3",
       "question": "Ash wants to train for the Gym Battle.",
       "options": [
         {
+          "id": "pikachu_q3_opt0",
           "text": "Jump up and down with electric energy!"
         },
         {
+          "id": "pikachu_q3_opt1",
           "text": "Sit under a tree and watch."
         },
         {
+          "id": "pikachu_q3_opt2",
           "text": "Take a nap instead."
         }
       ]
     },
     {
+      "id": "pikachu_q4",
       "question": "You see ketchup on the table!",
       "options": [
         {
+          "id": "pikachu_q4_opt0",
           "text": "Hug the bottle, it's my favorite!"
         },
         {
+          "id": "pikachu_q4_opt1",
           "text": "Put some on my fries."
         },
         {
+          "id": "pikachu_q4_opt2",
           "text": "Push it off the table."
         }
       ]
@@ -145,71 +185,91 @@
   ],
   "tom": [
     {
+      "id": "tom_q0",
       "question": "You see a tiny mouse hole in the wall. What's your plan?",
       "options": [
         {
+          "id": "tom_q0_opt0",
           "text": "Set up a clever (but clumsy) trap!"
         },
         {
+          "id": "tom_q0_opt1",
           "text": "Wait patiently outside."
         },
         {
+          "id": "tom_q0_opt2",
           "text": "Go to sleep."
         }
       ]
     },
     {
+      "id": "tom_q1",
       "question": "The house owner gave you a bowl of milk.",
       "options": [
         {
+          "id": "tom_q1_opt0",
           "text": "Drink it all happily!"
         },
         {
+          "id": "tom_q1_opt1",
           "text": "Save it for later."
         },
         {
+          "id": "tom_q1_opt2",
           "text": "Spill it on purpose."
         }
       ]
     },
     {
+      "id": "tom_q2",
       "question": "A bulldog is sleeping in the yard.",
       "options": [
         {
+          "id": "tom_q2_opt0",
           "text": "Sneak past him on tiptoes!"
         },
         {
+          "id": "tom_q2_opt1",
           "text": "Walk normally."
         },
         {
+          "id": "tom_q2_opt2",
           "text": "Pull his ears!"
         }
       ]
     },
     {
+      "id": "tom_q3",
       "question": "You finally caught the mouse!",
       "options": [
         {
+          "id": "tom_q3_opt0",
           "text": "Let him go because we're secretly friends."
         },
         {
+          "id": "tom_q3_opt1",
           "text": "Show him to the owner."
         },
         {
+          "id": "tom_q3_opt2",
           "text": "Eat him."
         }
       ]
     },
     {
+      "id": "tom_q4",
       "question": "A piano is falling from the sky!",
       "options": [
         {
+          "id": "tom_q4_opt0",
           "text": "Hold up a tiny umbrella!"
         },
         {
+          "id": "tom_q4_opt1",
           "text": "Run away very fast."
         },
         {
+          "id": "tom_q4_opt2",
           "text": "Stand still and wait."
         }
       ]
@@ -217,71 +277,91 @@
   ],
   "jerry": [
     {
+      "id": "jerry_q0",
       "question": "A cat is guarding the refrigerator!",
       "options": [
         {
+          "id": "jerry_q0_opt0",
           "text": "Sneak through a tiny mouse hole!"
         },
         {
+          "id": "jerry_q0_opt1",
           "text": "Wait for the cat to fall asleep."
         },
         {
+          "id": "jerry_q0_opt2",
           "text": "Walk up and ask for cheese."
         }
       ]
     },
     {
+      "id": "jerry_q1",
       "question": "You found a giant block of Swiss cheese!",
       "options": [
         {
+          "id": "jerry_q1_opt0",
           "text": "Roll it all the way home!"
         },
         {
+          "id": "jerry_q1_opt1",
           "text": "Eat a tiny piece."
         },
         {
+          "id": "jerry_q1_opt2",
           "text": "Leave it there."
         }
       ]
     },
     {
+      "id": "jerry_q2",
       "question": "The cat set up a mouse trap.",
       "options": [
         {
+          "id": "jerry_q2_opt0",
           "text": "Carefully steal the cheese without snapping it."
         },
         {
+          "id": "jerry_q2_opt1",
           "text": "Walk around it."
         },
         {
+          "id": "jerry_q2_opt2",
           "text": "Step right on it."
         }
       ]
     },
     {
+      "id": "jerry_q3",
       "question": "You found a tiny hammer.",
       "options": [
         {
+          "id": "jerry_q3_opt0",
           "text": "Use it to bonk the cat on the foot!"
         },
         {
+          "id": "jerry_q3_opt1",
           "text": "Fix my mouse house."
         },
         {
+          "id": "jerry_q3_opt2",
           "text": "Throw it away."
         }
       ]
     },
     {
+      "id": "jerry_q4",
       "question": "The dog starts chasing the cat.",
       "options": [
         {
+          "id": "jerry_q4_opt0",
           "text": "Laugh and eat cheese while watching."
         },
         {
+          "id": "jerry_q4_opt1",
           "text": "Run away with them."
         },
         {
+          "id": "jerry_q4_opt2",
           "text": "Try to stop the fight."
         }
       ]
@@ -289,71 +369,91 @@
   ],
   "po": [
     {
+      "id": "po_q0",
       "question": "Tai Lung has returned! How do you stop him?",
       "options": [
         {
+          "id": "po_q0_opt0",
           "text": "Use the Wuxi Finger Hold! Skadoosh!"
         },
         {
+          "id": "po_q0_opt1",
           "text": "Ask the Furious Five for help."
         },
         {
+          "id": "po_q0_opt2",
           "text": "Hide in the noodle shop."
         }
       ]
     },
     {
+      "id": "po_q1",
       "question": "Master Shifu tells you to train before eating.",
       "options": [
         {
+          "id": "po_q1_opt0",
           "text": "Train super hard so I can have dumplings!"
         },
         {
+          "id": "po_q1_opt1",
           "text": "Do a little bit of training."
         },
         {
+          "id": "po_q1_opt2",
           "text": "Cry and refuse to train."
         }
       ]
     },
     {
+      "id": "po_q2",
       "question": "You find the legendary Dragon Scroll!",
       "options": [
         {
+          "id": "po_q2_opt0",
           "text": "Open it and realize the power was inside me!"
         },
         {
+          "id": "po_q2_opt1",
           "text": "Put it back on the ceiling."
         },
         {
+          "id": "po_q2_opt2",
           "text": "Use it as a napkin."
         }
       ]
     },
     {
+      "id": "po_q3",
       "question": "A giant bowl of noodles is on the table.",
       "options": [
         {
+          "id": "po_q3_opt0",
           "text": "Eat it all in one giant slurp!"
         },
         {
+          "id": "po_q3_opt1",
           "text": "Eat it slowly with chopsticks."
         },
         {
+          "id": "po_q3_opt2",
           "text": "Throw it at a wall."
         }
       ]
     },
     {
+      "id": "po_q4",
       "question": "You trip and fall down 100 stairs.",
       "options": [
         {
+          "id": "po_q4_opt0",
           "text": "Bounce down happily because I'm squishy!"
         },
         {
+          "id": "po_q4_opt1",
           "text": "Complain the whole way down."
         },
         {
+          "id": "po_q4_opt2",
           "text": "Cry at the bottom."
         }
       ]
@@ -361,71 +461,91 @@
   ],
   "doraemon": [
     {
+      "id": "doraemon_q0",
       "question": "Nobita is crying about his homework again. What do you do?",
       "options": [
         {
+          "id": "doraemon_q0_opt0",
           "text": "Pull a futuristic gadget from my 4D pocket!"
         },
         {
+          "id": "doraemon_q0_opt1",
           "text": "Tell him to do it himself."
         },
         {
+          "id": "doraemon_q0_opt2",
           "text": "Do his homework for him."
         }
       ]
     },
     {
+      "id": "doraemon_q1",
       "question": "You find a plate of Dorayaki (red bean pancakes)!",
       "options": [
         {
+          "id": "doraemon_q1_opt0",
           "text": "Eat all of them instantly!"
         },
         {
+          "id": "doraemon_q1_opt1",
           "text": "Save some for Nobita."
         },
         {
+          "id": "doraemon_q1_opt2",
           "text": "Throw them in the trash."
         }
       ]
     },
     {
+      "id": "doraemon_q2",
       "question": "Gian is bullying someone at the playground.",
       "options": [
         {
+          "id": "doraemon_q2_opt0",
           "text": "Use the Any-Where Door to escape!"
         },
         {
+          "id": "doraemon_q2_opt1",
           "text": "Ask him to stop."
         },
         {
+          "id": "doraemon_q2_opt2",
           "text": "Join Gian."
         }
       ]
     },
     {
+      "id": "doraemon_q3",
       "question": "There's a mouse in the room!",
       "options": [
         {
+          "id": "doraemon_q3_opt0",
           "text": "Scream, jump on the table, and faint!"
         },
         {
+          "id": "doraemon_q3_opt1",
           "text": "Try to catch it calmly."
         },
         {
+          "id": "doraemon_q3_opt2",
           "text": "Pet it."
         }
       ]
     },
     {
+      "id": "doraemon_q4",
       "question": "We need to travel back in time to fix a mistake.",
       "options": [
         {
+          "id": "doraemon_q4_opt0",
           "text": "Jump into the Time Machine in the desk drawer!"
         },
         {
+          "id": "doraemon_q4_opt1",
           "text": "Use a regular airplane."
         },
         {
+          "id": "doraemon_q4_opt2",
           "text": "Give up."
         }
       ]
@@ -433,71 +553,91 @@
   ],
   "spongebob": [
     {
+      "id": "spongebob_q0",
       "question": "Mr. Krabs needs you to flip Krabby Patties fast!",
       "options": [
         {
+          "id": "spongebob_q0_opt0",
           "text": "Use my golden spatula! I'm ready!"
         },
         {
+          "id": "spongebob_q0_opt1",
           "text": "Flip them as normal."
         },
         {
+          "id": "spongebob_q0_opt2",
           "text": "Quit my job and go home."
         }
       ]
     },
     {
+      "id": "spongebob_q1",
       "question": "Plankton is trying to steal the secret formula!",
       "options": [
         {
+          "id": "spongebob_q1_opt0",
           "text": "Protect it using the power of imagination!"
         },
         {
+          "id": "spongebob_q1_opt1",
           "text": "Tell Mr. Krabs."
         },
         {
+          "id": "spongebob_q1_opt2",
           "text": "Give it to Plankton."
         }
       ]
     },
     {
+      "id": "spongebob_q2",
       "question": "You have a day off at Jellyfish Fields.",
       "options": [
         {
+          "id": "spongebob_q2_opt0",
           "text": "Run around with my jellyfish net singing!"
         },
         {
+          "id": "spongebob_q2_opt1",
           "text": "Sit quietly on a rock."
         },
         {
+          "id": "spongebob_q2_opt2",
           "text": "Go back to work for free."
         }
       ]
     },
     {
+      "id": "spongebob_q3",
       "question": "Squidward asks you to be quiet.",
       "options": [
         {
+          "id": "spongebob_q3_opt0",
           "text": "Laugh my special laugh and keep playing!"
         },
         {
+          "id": "spongebob_q3_opt1",
           "text": "Whisper very quietly."
         },
         {
+          "id": "spongebob_q3_opt2",
           "text": "Yell as loud as I can."
         }
       ]
     },
     {
+      "id": "spongebob_q4",
       "question": "You need to learn how to drive a boat.",
       "options": [
         {
+          "id": "spongebob_q4_opt0",
           "text": "Panic and crash the boat immediately!"
         },
         {
+          "id": "spongebob_q4_opt1",
           "text": "Drive carefully."
         },
         {
+          "id": "spongebob_q4_opt2",
           "text": "Walk instead."
         }
       ]
@@ -505,71 +645,91 @@
   ],
   "shinchan": [
     {
+      "id": "shinchan_q0",
       "question": "Your mom asks you to clean your room.",
       "options": [
         {
+          "id": "shinchan_q0_opt0",
           "text": "Do a funny dance and run away!"
         },
         {
+          "id": "shinchan_q0_opt1",
           "text": "Clean it up slowly."
         },
         {
+          "id": "shinchan_q0_opt2",
           "text": "Cry until she cleans it."
         }
       ]
     },
     {
+      "id": "shinchan_q1",
       "question": "You see pretty Action Kamen toys at the store.",
       "options": [
         {
+          "id": "shinchan_q1_opt0",
           "text": "Beg mom and roll on the floor!"
         },
         {
+          "id": "shinchan_q1_opt1",
           "text": "Ask politely once."
         },
         {
+          "id": "shinchan_q1_opt2",
           "text": "Walk past the toys."
         }
       ]
     },
     {
+      "id": "shinchan_q2",
       "question": "A stranger talks to you in the park.",
       "options": [
         {
+          "id": "shinchan_q2_opt0",
           "text": "Say something totally embarrassing!"
         },
         {
+          "id": "shinchan_q2_opt1",
           "text": "Say hello nicely."
         },
         {
+          "id": "shinchan_q2_opt2",
           "text": "Run away screaming."
         }
       ]
     },
     {
+      "id": "shinchan_q3",
       "question": "You find a box of Chocobi snacks!",
       "options": [
         {
+          "id": "shinchan_q3_opt0",
           "text": "Eat the whole box in 3 seconds!"
         },
         {
+          "id": "shinchan_q3_opt1",
           "text": "Save them for after dinner."
         },
         {
+          "id": "shinchan_q3_opt2",
           "text": "Throw them away."
         }
       ]
     },
     {
+      "id": "shinchan_q4",
       "question": "It's time to play with Shiro (your dog).",
       "options": [
         {
+          "id": "shinchan_q4_opt0",
           "text": "Roll him into a fuzzy snowball!"
         },
         {
+          "id": "shinchan_q4_opt1",
           "text": "Take him for a normal walk."
         },
         {
+          "id": "shinchan_q4_opt2",
           "text": "Leave him inside."
         }
       ]
@@ -577,71 +737,91 @@
   ],
   "goku": [
     {
+      "id": "goku_q0",
       "question": "A super strong alien wants to destroy the planet!",
       "options": [
         {
+          "id": "goku_q0_opt0",
           "text": "Get super excited for a good fight and power up!"
         },
         {
+          "id": "goku_q0_opt1",
           "text": "Try to talk it out with them."
         },
         {
+          "id": "goku_q0_opt2",
           "text": "Run away in fear."
         }
       ]
     },
     {
+      "id": "goku_q1",
       "question": "You just finished a 10-hour training session.",
       "options": [
         {
+          "id": "goku_q1_opt0",
           "text": "Eat 50 bowls of rice and meat immediately!"
         },
         {
+          "id": "goku_q1_opt1",
           "text": "Drink some water and rest."
         },
         {
+          "id": "goku_q1_opt2",
           "text": "Go straight to sleep."
         }
       ]
     },
     {
+      "id": "goku_q2",
       "question": "Someone tells you they are the strongest in the universe.",
       "options": [
         {
+          "id": "goku_q2_opt0",
           "text": "Say 'Wow, let's fight right now!'"
         },
         {
+          "id": "goku_q2_opt1",
           "text": "Don't believe them."
         },
         {
+          "id": "goku_q2_opt2",
           "text": "Cry because I want to be strongest."
         }
       ]
     },
     {
+      "id": "goku_q3",
       "question": "You need to travel very far, very fast.",
       "options": [
         {
+          "id": "goku_q3_opt0",
           "text": "Use Instant Transmission!"
         },
         {
+          "id": "goku_q3_opt1",
           "text": "Ride the Flying Nimbus cloud."
         },
         {
+          "id": "goku_q3_opt2",
           "text": "Walk."
         }
       ]
     },
     {
+      "id": "goku_q4",
       "question": "Your friends are badly hurt in battle.",
       "options": [
         {
+          "id": "goku_q4_opt0",
           "text": "Give them a magic Senzu Bean!"
         },
         {
+          "id": "goku_q4_opt1",
           "text": "Call an ambulance."
         },
         {
+          "id": "goku_q4_opt2",
           "text": "Run away to save myself."
         }
       ]
@@ -649,71 +829,91 @@
   ],
   "bheem": [
     {
+      "id": "bheem_q0",
       "question": "Dholakpur is under attack by a magical demon!",
       "options": [
         {
+          "id": "bheem_q0_opt0",
           "text": "Eat some Laddoos and gain super strength!"
         },
         {
+          "id": "bheem_q0_opt1",
           "text": "Tell the King about it."
         },
         {
+          "id": "bheem_q0_opt2",
           "text": "Hide in my house."
         }
       ]
     },
     {
+      "id": "bheem_q1",
       "question": "Tuntun Mausi made a fresh batch of Laddoos.",
       "options": [
         {
+          "id": "bheem_q1_opt0",
           "text": "Ask politely and eat a giant handful!"
         },
         {
+          "id": "bheem_q1_opt1",
           "text": "Save them for the village."
         },
         {
+          "id": "bheem_q1_opt2",
           "text": "Throw them on the ground."
         }
       ]
     },
     {
+      "id": "bheem_q2",
       "question": "Kalia is challenging you to a wrestling match.",
       "options": [
         {
+          "id": "bheem_q2_opt0",
           "text": "Accept with a smile and win easily!"
         },
         {
+          "id": "bheem_q2_opt1",
           "text": "Refuse the challenge."
         },
         {
+          "id": "bheem_q2_opt2",
           "text": "Run away crying."
         }
       ]
     },
     {
+      "id": "bheem_q3",
       "question": "You need to help Chutki carry heavy baskets.",
       "options": [
         {
+          "id": "bheem_q3_opt0",
           "text": "Carry all of them on my head!"
         },
         {
+          "id": "bheem_q3_opt1",
           "text": "Help her carry one."
         },
         {
+          "id": "bheem_q3_opt2",
           "text": "Tell her to carry them herself."
         }
       ]
     },
     {
+      "id": "bheem_q4",
       "question": "A tiger has escaped the jungle!",
       "options": [
         {
+          "id": "bheem_q4_opt0",
           "text": "Wrestle the tiger and tame him!"
         },
         {
+          "id": "bheem_q4_opt1",
           "text": "Call the forest guards."
         },
         {
+          "id": "bheem_q4_opt2",
           "text": "Ignore the tiger."
         }
       ]
@@ -721,71 +921,91 @@
   ],
   "motu": [
     {
+      "id": "motu_q0",
       "question": "You are feeling very, very hungry.",
       "options": [
         {
+          "id": "motu_q0_opt0",
           "text": "Eat hundreds of Samosas immediately!"
         },
         {
+          "id": "motu_q0_opt1",
           "text": "Eat a normal sandwich."
         },
         {
+          "id": "motu_q0_opt2",
           "text": "Drink some water."
         }
       ]
     },
     {
+      "id": "motu_q1",
       "question": "John the Don is causing trouble in Furfuri Nagar!",
       "options": [
         {
+          "id": "motu_q1_opt0",
           "text": "Get Samosa power and bash him up!"
         },
         {
+          "id": "motu_q1_opt1",
           "text": "Tell Inspector Chingum."
         },
         {
+          "id": "motu_q1_opt2",
           "text": "Run away."
         }
       ]
     },
     {
+      "id": "motu_q2",
       "question": "You have an empty stomach.",
       "options": [
         {
+          "id": "motu_q2_opt0",
           "text": "Cry that my brain isn't working!"
         },
         {
+          "id": "motu_q2_opt1",
           "text": "Wait patiently for lunch."
         },
         {
+          "id": "motu_q2_opt2",
           "text": "I don't care."
         }
       ]
     },
     {
+      "id": "motu_q3",
       "question": "Patlu has a brilliant plan to catch a thief.",
       "options": [
         {
+          "id": "motu_q3_opt0",
           "text": "Accidentally ruin the plan by doing something silly!"
         },
         {
+          "id": "motu_q3_opt1",
           "text": "Follow the plan perfectly."
         },
         {
+          "id": "motu_q3_opt2",
           "text": "Go to sleep instead."
         }
       ]
     },
     {
+      "id": "motu_q4",
       "question": "You see a chaiwala (tea seller) making fresh samosas.",
       "options": [
         {
+          "id": "motu_q4_opt0",
           "text": "Run over and buy the whole batch!"
         },
         {
+          "id": "motu_q4_opt1",
           "text": "Buy just one."
         },
         {
+          "id": "motu_q4_opt2",
           "text": "Walk past it."
         }
       ]
@@ -793,71 +1013,91 @@
   ],
   "patlu": [
     {
+      "id": "patlu_q0",
       "question": "Motu is stuck in a giant trap!",
       "options": [
         {
+          "id": "patlu_q0_opt0",
           "text": "Think super fast and invent a clever gadget to save him!"
         },
         {
+          "id": "patlu_q0_opt1",
           "text": "Call for help."
         },
         {
+          "id": "patlu_q0_opt2",
           "text": "Leave him there."
         }
       ]
     },
     {
+      "id": "patlu_q1",
       "question": "John the Don challenges you to a battle of wits.",
       "options": [
         {
+          "id": "patlu_q1_opt0",
           "text": "Outsmart him with my brain power!"
         },
         {
+          "id": "patlu_q1_opt1",
           "text": "Try to fight him with my fists."
         },
         {
+          "id": "patlu_q1_opt2",
           "text": "Run away."
         }
       ]
     },
     {
+      "id": "patlu_q2",
       "question": "Motu ate all your food.",
       "options": [
         {
+          "id": "patlu_q2_opt0",
           "text": "Sigh and say 'Oh Motu...'"
         },
         {
+          "id": "patlu_q2_opt1",
           "text": "Get really angry and yell."
         },
         {
+          "id": "patlu_q2_opt2",
           "text": "Smile and hug him."
         }
       ]
     },
     {
+      "id": "patlu_q3",
       "question": "You found a complicated puzzle box.",
       "options": [
         {
+          "id": "patlu_q3_opt0",
           "text": "Solve it in 5 seconds!"
         },
         {
+          "id": "patlu_q3_opt1",
           "text": "Read the instructions."
         },
         {
+          "id": "patlu_q3_opt2",
           "text": "Smash it with a hammer."
         }
       ]
     },
     {
+      "id": "patlu_q4",
       "question": "You need to cross a broken bridge.",
       "options": [
         {
+          "id": "patlu_q4_opt0",
           "text": "Use math and ropes to swing across perfectly."
         },
         {
+          "id": "patlu_q4_opt1",
           "text": "Walk around the river."
         },
         {
+          "id": "patlu_q4_opt2",
           "text": "Jump and hope for the best."
         }
       ]
@@ -865,71 +1105,91 @@
   ],
   "dora": [
     {
+      "id": "dora_q0",
       "question": "Swiper the Fox is trying to sneak up!",
       "options": [
         {
+          "id": "dora_q0_opt0",
           "text": "Yell 'Swiper, no swiping!' three times!"
         },
         {
+          "id": "dora_q0_opt1",
           "text": "Hide behind a tree."
         },
         {
+          "id": "dora_q0_opt2",
           "text": "Let him swipe my things."
         }
       ]
     },
     {
+      "id": "dora_q1",
       "question": "We don't know the way to the Snowy Mountains!",
       "options": [
         {
+          "id": "dora_q1_opt0",
           "text": "Look in the magical Backpack!"
         },
         {
+          "id": "dora_q1_opt1",
           "text": "Ask Map!"
         },
         {
+          "id": "dora_q1_opt2",
           "text": "Give up and go home."
         }
       ]
     },
     {
+      "id": "dora_q2",
       "question": "Boots the Monkey is stuck in a tall tree.",
       "options": [
         {
+          "id": "dora_q2_opt0",
           "text": "Find a vine to climb up and save him!"
         },
         {
+          "id": "dora_q2_opt1",
           "text": "Call a firefighter."
         },
         {
+          "id": "dora_q2_opt2",
           "text": "Leave him there."
         }
       ]
     },
     {
+      "id": "dora_q3",
       "question": "We found a secret Spanish phrase on a door.",
       "options": [
         {
+          "id": "dora_q3_opt0",
           "text": "Read it out loud: ¡Abrete!"
         },
         {
+          "id": "dora_q3_opt1",
           "text": "Ignore it."
         },
         {
+          "id": "dora_q3_opt2",
           "text": "Break the door."
         }
       ]
     },
     {
+      "id": "dora_q4",
       "question": "You need to cross the Troll Bridge.",
       "options": [
         {
+          "id": "dora_q4_opt0",
           "text": "Solve the Grumpy Old Troll's riddle!"
         },
         {
+          "id": "dora_q4_opt1",
           "text": "Swim across the river instead."
         },
         {
+          "id": "dora_q4_opt2",
           "text": "Cry."
         }
       ]
@@ -937,71 +1197,91 @@
   ],
   "mickey": [
     {
+      "id": "mickey_q0",
       "question": "Pete is causing trouble in the clubhouse!",
       "options": [
         {
+          "id": "mickey_q0_opt0",
           "text": "Use a Mouseketool to fix the problem! Hot Dog!"
         },
         {
+          "id": "mickey_q0_opt1",
           "text": "Tell him to go away."
         },
         {
+          "id": "mickey_q0_opt2",
           "text": "Hide in the closet."
         }
       ]
     },
     {
+      "id": "mickey_q1",
       "question": "Donald Duck is getting very angry.",
       "options": [
         {
+          "id": "mickey_q1_opt0",
           "text": "Say 'Oh boy!' and try to calm him down."
         },
         {
+          "id": "mickey_q1_opt1",
           "text": "Laugh at him."
         },
         {
+          "id": "mickey_q1_opt2",
           "text": "Yell back at him."
         }
       ]
     },
     {
+      "id": "mickey_q2",
       "question": "You need a special tool to open a door.",
       "options": [
         {
+          "id": "mickey_q2_opt0",
           "text": "Call Toodles for a Mouseketool!"
         },
         {
+          "id": "mickey_q2_opt1",
           "text": "Kick the door open."
         },
         {
+          "id": "mickey_q2_opt2",
           "text": "Walk away."
         }
       ]
     },
     {
+      "id": "mickey_q3",
       "question": "It's time for the Hot Dog Dance!",
       "options": [
         {
+          "id": "mickey_q3_opt0",
           "text": "Dance and sing along happily!"
         },
         {
+          "id": "mickey_q3_opt1",
           "text": "Sit perfectly still."
         },
         {
+          "id": "mickey_q3_opt2",
           "text": "Cover my ears."
         }
       ]
     },
     {
+      "id": "mickey_q4",
       "question": "You found Pluto lost in the park.",
       "options": [
         {
+          "id": "mickey_q4_opt0",
           "text": "Give him a big hug and a bone!"
         },
         {
+          "id": "mickey_q4_opt1",
           "text": "Pat him on the head."
         },
         {
+          "id": "mickey_q4_opt2",
           "text": "Run away from him."
         }
       ]
@@ -1009,71 +1289,91 @@
   ],
   "elsa": [
     {
+      "id": "elsa_q0",
       "question": "The kingdom of Arendelle is in danger!",
       "options": [
         {
+          "id": "elsa_q0_opt0",
           "text": "Use my ice magic to build a giant shield!"
         },
         {
+          "id": "elsa_q0_opt1",
           "text": "Ask Anna to save it."
         },
         {
+          "id": "elsa_q0_opt2",
           "text": "Run up the North Mountain."
         }
       ]
     },
     {
+      "id": "elsa_q1",
       "question": "You need to cross a giant river of water.",
       "options": [
         {
+          "id": "elsa_q1_opt0",
           "text": "Freeze the water and run across!"
         },
         {
+          "id": "elsa_q1_opt1",
           "text": "Build a wooden boat."
         },
         {
+          "id": "elsa_q1_opt2",
           "text": "Swim across normally."
         }
       ]
     },
     {
+      "id": "elsa_q2",
       "question": "Someone asks to see your powers.",
       "options": [
         {
+          "id": "elsa_q2_opt0",
           "text": "Shoot beautiful snowflakes into the sky!"
         },
         {
+          "id": "elsa_q2_opt1",
           "text": "Hide my hands in my pockets."
         },
         {
+          "id": "elsa_q2_opt2",
           "text": "Throw a snowball at them."
         }
       ]
     },
     {
+      "id": "elsa_q3",
       "question": "Olaf is melting in the summer sun!",
       "options": [
         {
+          "id": "elsa_q3_opt0",
           "text": "Create a magical personal snow flurry for him!"
         },
         {
+          "id": "elsa_q3_opt1",
           "text": "Put him in a freezer."
         },
         {
+          "id": "elsa_q3_opt2",
           "text": "Let him melt."
         }
       ]
     },
     {
+      "id": "elsa_q4",
       "question": "It's time to let it go.",
       "options": [
         {
+          "id": "elsa_q4_opt0",
           "text": "Sing loudly and build an ice castle!"
         },
         {
+          "id": "elsa_q4_opt1",
           "text": "Whisper quietly."
         },
         {
+          "id": "elsa_q4_opt2",
           "text": "Stay silent."
         }
       ]
@@ -1081,71 +1381,91 @@
   ],
   "spiderman": [
     {
+      "id": "spiderman_q0",
       "question": "The Green Goblin is flying over the city!",
       "options": [
         {
+          "id": "spiderman_q0_opt0",
           "text": "Shoot a web and swing into action!"
         },
         {
+          "id": "spiderman_q0_opt1",
           "text": "Call the police."
         },
         {
+          "id": "spiderman_q0_opt2",
           "text": "Hide under a car."
         }
       ]
     },
     {
+      "id": "spiderman_q1",
       "question": "You need to stop a falling train car.",
       "options": [
         {
+          "id": "spiderman_q1_opt0",
           "text": "Shoot hundreds of webs to hold it back!"
         },
         {
+          "id": "spiderman_q1_opt1",
           "text": "Push it with my bare hands."
         },
         {
+          "id": "spiderman_q1_opt2",
           "text": "Let it crash."
         }
       ]
     },
     {
+      "id": "spiderman_q2",
       "question": "Your Spidey-Sense starts tingling!",
       "options": [
         {
+          "id": "spiderman_q2_opt0",
           "text": "Do a backflip to dodge the danger!"
         },
         {
+          "id": "spiderman_q2_opt1",
           "text": "Look around slowly."
         },
         {
+          "id": "spiderman_q2_opt2",
           "text": "Ignore it."
         }
       ]
     },
     {
+      "id": "spiderman_q3",
       "question": "You are late for school.",
       "options": [
         {
+          "id": "spiderman_q3_opt0",
           "text": "Web-swing through the city to get there fast!"
         },
         {
+          "id": "spiderman_q3_opt1",
           "text": "Take the bus."
         },
         {
+          "id": "spiderman_q3_opt2",
           "text": "Skip school."
         }
       ]
     },
     {
+      "id": "spiderman_q4",
       "question": "You need to take a picture of Spider-Man for the newspaper.",
       "options": [
         {
+          "id": "spiderman_q4_opt0",
           "text": "Set up a camera with a web-timer and take a selfie!"
         },
         {
+          "id": "spiderman_q4_opt1",
           "text": "Draw a picture instead."
         },
         {
+          "id": "spiderman_q4_opt2",
           "text": "Quit my job."
         }
       ]
@@ -1153,71 +1473,91 @@
   ],
   "mcqueen": [
     {
+      "id": "mcqueen_q0",
       "question": "You are in the final lap of the Piston Cup!",
       "options": [
         {
+          "id": "mcqueen_q0_opt0",
           "text": "Say 'Kachow!' and speed past everyone!"
         },
         {
+          "id": "mcqueen_q0_opt1",
           "text": "Drive at a normal speed."
         },
         {
+          "id": "mcqueen_q0_opt2",
           "text": "Stop driving."
         }
       ]
     },
     {
+      "id": "mcqueen_q1",
       "question": "Mater needs help towing a heavy truck.",
       "options": [
         {
+          "id": "mcqueen_q1_opt0",
           "text": "Use my engine power to help pull him!"
         },
         {
+          "id": "mcqueen_q1_opt1",
           "text": "Watch him struggle."
         },
         {
+          "id": "mcqueen_q1_opt2",
           "text": "Drive away fast."
         }
       ]
     },
     {
+      "id": "mcqueen_q2",
       "question": "You need a new paint job before the big race.",
       "options": [
         {
+          "id": "mcqueen_q2_opt0",
           "text": "Get shiny red paint with lightning bolts!"
         },
         {
+          "id": "mcqueen_q2_opt1",
           "text": "Get boring grey paint."
         },
         {
+          "id": "mcqueen_q2_opt2",
           "text": "Don't get painted."
         }
       ]
     },
     {
+      "id": "mcqueen_q3",
       "question": "The track is covered in dirt and mud.",
       "options": [
         {
+          "id": "mcqueen_q3_opt0",
           "text": "Drift around the corners perfectly!"
         },
         {
+          "id": "mcqueen_q3_opt1",
           "text": "Drive very slowly."
         },
         {
+          "id": "mcqueen_q3_opt2",
           "text": "Crash into the wall."
         }
       ]
     },
     {
+      "id": "mcqueen_q4",
       "question": "You see a fan holding your cheering sign.",
       "options": [
         {
+          "id": "mcqueen_q4_opt0",
           "text": "Rev my engine and flash my headlights!"
         },
         {
+          "id": "mcqueen_q4_opt1",
           "text": "Drive past quietly."
         },
         {
+          "id": "mcqueen_q4_opt2",
           "text": "Honk angrily."
         }
       ]
@@ -1225,71 +1565,91 @@
   ],
   "minion": [
     {
+      "id": "minion_q0",
       "question": "Gru gives you a very important laser gun to hold.",
       "options": [
         {
+          "id": "minion_q0_opt0",
           "text": "Accidentally shoot my friend and laugh ('Hehe, bottom')!"
         },
         {
+          "id": "minion_q0_opt1",
           "text": "Hold it very carefully."
         },
         {
+          "id": "minion_q0_opt2",
           "text": "Throw it in the trash."
         }
       ]
     },
     {
+      "id": "minion_q1",
       "question": "You see a giant banana on the table.",
       "options": [
         {
+          "id": "minion_q1_opt0",
           "text": "Yell 'BANANA!' and tackle the table!"
         },
         {
+          "id": "minion_q1_opt1",
           "text": "Eat it politely."
         },
         {
+          "id": "minion_q1_opt2",
           "text": "Ignore the banana."
         }
       ]
     },
     {
+      "id": "minion_q2",
       "question": "You are supposed to be building a rocket.",
       "options": [
         {
+          "id": "minion_q2_opt0",
           "text": "Sing a weird gibberish song and hit things with a wrench!"
         },
         {
+          "id": "minion_q2_opt1",
           "text": "Read the blueprints."
         },
         {
+          "id": "minion_q2_opt2",
           "text": "Take a nap."
         }
       ]
     },
     {
+      "id": "minion_q3",
       "question": "Another minion sticks his tongue out at you.",
       "options": [
         {
+          "id": "minion_q3_opt0",
           "text": "Start a giant slap fight!"
         },
         {
+          "id": "minion_q3_opt1",
           "text": "Ignore him."
         },
         {
+          "id": "minion_q3_opt2",
           "text": "Cry."
         }
       ]
     },
     {
+      "id": "minion_q4",
       "question": "Agnes needs a new unicorn toy.",
       "options": [
         {
+          "id": "minion_q4_opt0",
           "text": "Build a chaotic toy out of garbage and glue!"
         },
         {
+          "id": "minion_q4_opt1",
           "text": "Go to the store."
         },
         {
+          "id": "minion_q4_opt2",
           "text": "Tell her no."
         }
       ]
@@ -1297,71 +1657,91 @@
   ],
   "scooby": [
     {
+      "id": "scooby_q0",
       "question": "You are exploring a haunted, spooky house.",
       "options": [
         {
+          "id": "scooby_q0_opt0",
           "text": "Jump into Shaggy's arms and shake with fear!"
         },
         {
+          "id": "scooby_q0_opt1",
           "text": "Walk bravely with a flashlight."
         },
         {
+          "id": "scooby_q0_opt2",
           "text": "Chase the ghost."
         }
       ]
     },
     {
+      "id": "scooby_q1",
       "question": "Velma offers you a Scooby Snack.",
       "options": [
         {
+          "id": "scooby_q1_opt0",
           "text": "Eat it instantly and get brave!"
         },
         {
+          "id": "scooby_q1_opt1",
           "text": "Say 'No thank you'."
         },
         {
+          "id": "scooby_q1_opt2",
           "text": "Throw it on the floor."
         }
       ]
     },
     {
+      "id": "scooby_q2",
       "question": "The ghost is chasing you down the hallway!",
       "options": [
         {
+          "id": "scooby_q2_opt0",
           "text": "Run through a bunch of crazy doors in a sequence!"
         },
         {
+          "id": "scooby_q2_opt1",
           "text": "Stand still and punch the ghost."
         },
         {
+          "id": "scooby_q2_opt2",
           "text": "Wait to be caught."
         }
       ]
     },
     {
+      "id": "scooby_q3",
       "question": "You hear a scary noise in the kitchen.",
       "options": [
         {
+          "id": "scooby_q3_opt0",
           "text": "Hide under the table."
         },
         {
+          "id": "scooby_q3_opt1",
           "text": "Go outside."
         },
         {
+          "id": "scooby_q3_opt2",
           "text": "Scream 'Ruh-Roh!'"
         }
       ]
     },
     {
+      "id": "scooby_q4",
       "question": "Fred caught the monster in a trap.",
       "options": [
         {
+          "id": "scooby_q4_opt0",
           "text": "Pull off the monster's rubber mask!"
         },
         {
+          "id": "scooby_q4_opt1",
           "text": "Watch him do it."
         },
         {
+          "id": "scooby_q4_opt2",
           "text": "Run away again."
         }
       ]
