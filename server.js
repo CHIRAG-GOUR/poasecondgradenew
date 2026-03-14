@@ -2,6 +2,7 @@ require('dotenv').config({ path: '.env.local' });
 const express = require('express');
 const cors = require('cors');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
+const fallbackDatabase = require('./fallbackQuestions.json');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -34,6 +35,7 @@ app.post('/api/gemini/questions', async (req, res) => {
       ${topTraits.map(t => `- ${t.name}: ${t.description}`).join('\n')}
 
       Write exactly 5 fun, interactive personality questions to ask the child to see if they are similar to ${characterName}.
+      This is a new session. You MUST generate COMPLETELY NEW, UNIQUE, AND SURPRISING questions and options. DO NOT repeat standard or generic questions. Be extremely creative!
       
       RULES:
       1. Keep language super simple, fun, and easy for a 7/8-year-old child to understand.
@@ -50,9 +52,17 @@ app.post('/api/gemini/questions', async (req, res) => {
           "options": ["[Option A]", "[Option B]", "[Option C]"]
         }
       ]
+      
+      RANDOMIZATION SEED: ${Math.random()} (Ensure these are completely different from anything you've ever generated before!)
     `;
 
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ 
+      model: "gemini-1.5-flash",
+      generationConfig: {
+        temperature: 0.9,
+        topP: 0.95,
+      }
+    });
     const result = await model.generateContent(prompt);
     
     let text = result.response.text().trim();
@@ -60,10 +70,28 @@ app.post('/api/gemini/questions', async (req, res) => {
     if (text.endsWith("```")) text = text.slice(0, -3);
 
     const questions = JSON.parse(text);
+    if (!Array.isArray(questions) || questions.length < 5) throw new Error("Invalid format");
     res.json(questions);
   } catch (error) {
-    console.error("Gemini API Error (Questions):", error);
-    res.status(500).json({ error: "Failed to generate questions" });
+    console.error("Gemini API Error (Questions):", error.message);
+    
+    // Server-side Failover: Return 5 random backup questions
+    const charId = req.body.characterId;
+    let backups = fallbackDatabase[charId];
+    
+    if (!backups || backups.length === 0) {
+      backups = [
+        { "question": "What is your favorite color?", "options": ["Red!", "Blue!", "Green!"] },
+        { "question": "What do you like to eat?", "options": ["Pizza!", "Apples!", "Nothing!"] },
+        { "question": "Where would you go on an adventure?", "options": ["The Moon!", "The Beach!", "My room!"] },
+        { "question": "Who is your best friend?", "options": ["A dog!", "A tiger!", "A ghost!"] },
+        { "question": "What is your superpower?", "options": ["Flying!", "Invisibility!", "Sleeping!"] }
+      ];
+    }
+    
+    // Shuffle the available backup questions and slice exactly 5
+    const shuffled = [...backups].sort(() => 0.5 - Math.random());
+    res.json(shuffled.slice(0, 5));
   }
 });
 
