@@ -3,41 +3,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -45,41 +75,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -87,41 +147,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -129,41 +219,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -171,41 +291,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -213,41 +363,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -255,41 +435,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -297,41 +507,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -339,41 +579,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -381,41 +651,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -423,41 +723,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -465,41 +795,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -507,41 +867,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -549,41 +939,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -591,41 +1011,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -633,41 +1083,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -675,41 +1155,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -717,41 +1227,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ],
@@ -759,41 +1299,71 @@
     {
       "question": "What is your favorite color?",
       "options": [
-        "Red!",
-        "Blue!",
-        "Green!"
+        {
+          "text": "Red!"
+        },
+        {
+          "text": "Blue!"
+        },
+        {
+          "text": "Green!"
+        }
       ]
     },
     {
       "question": "What do you like to eat?",
       "options": [
-        "Pizza!",
-        "Apples!",
-        "Nothing!"
+        {
+          "text": "Pizza!"
+        },
+        {
+          "text": "Apples!"
+        },
+        {
+          "text": "Nothing!"
+        }
       ]
     },
     {
       "question": "Where would you go on an adventure?",
       "options": [
-        "The Moon!",
-        "The Beach!",
-        "My room!"
+        {
+          "text": "The Moon!"
+        },
+        {
+          "text": "The Beach!"
+        },
+        {
+          "text": "My room!"
+        }
       ]
     },
     {
       "question": "Who is your best friend?",
       "options": [
-        "A dog!",
-        "A tiger!",
-        "A ghost!"
+        {
+          "text": "A dog!"
+        },
+        {
+          "text": "A tiger!"
+        },
+        {
+          "text": "A ghost!"
+        }
       ]
     },
     {
       "question": "What is your superpower?",
       "options": [
-        "Flying!",
-        "Invisibility!",
-        "Sleeping!"
+        {
+          "text": "Flying!"
+        },
+        {
+          "text": "Invisibility!"
+        },
+        {
+          "text": "Sleeping!"
+        }
       ]
     }
   ]

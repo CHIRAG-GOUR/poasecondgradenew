@@ -49,7 +49,11 @@ app.post('/api/gemini/questions', async (req, res) => {
       [
         {
           "question": "[The fun question]",
-          "options": ["[Option A]", "[Option B]", "[Option C]"]
+          "options": [
+            { "text": "[Option A]" },
+            { "text": "[Option B]" },
+            { "text": "[Option C]" }
+          ]
         }
       ]
       
@@ -81,11 +85,11 @@ app.post('/api/gemini/questions', async (req, res) => {
     
     if (!backups || backups.length === 0) {
       backups = [
-        { "question": "What is your favorite color?", "options": ["Red!", "Blue!", "Green!"] },
-        { "question": "What do you like to eat?", "options": ["Pizza!", "Apples!", "Nothing!"] },
-        { "question": "Where would you go on an adventure?", "options": ["The Moon!", "The Beach!", "My room!"] },
-        { "question": "Who is your best friend?", "options": ["A dog!", "A tiger!", "A ghost!"] },
-        { "question": "What is your superpower?", "options": ["Flying!", "Invisibility!", "Sleeping!"] }
+        { "question": "What is your favorite color?", "options": [{ "text": "Red!" }, { "text": "Blue!" }, { "text": "Green!" }] },
+        { "question": "What do you like to eat?", "options": [{ "text": "Pizza!" }, { "text": "Apples!" }, { "text": "Nothing!" }] },
+        { "question": "Where would you go on an adventure?", "options": [{ "text": "The Moon!" }, { "text": "The Beach!" }, { "text": "My room!" }] },
+        { "question": "Who is your best friend?", "options": [{ "text": "A dog!" }, { "text": "A tiger!" }, { "text": "A ghost!" }] },
+        { "question": "What is your superpower?", "options": [{ "text": "Flying!" }, { "text": "Invisibility!" }, { "text": "Sleeping!" }] }
       ];
     }
     
