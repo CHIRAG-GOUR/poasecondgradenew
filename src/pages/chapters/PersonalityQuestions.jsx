@@ -25,7 +25,7 @@ function OptionButton({ option, isSelected, onClick, index }) {
         }`}
     >
       <span className={`w-10 h-10 md:w-12 md:h-12 bg-gradient-to-r ${isSelected ? 'from-purple-500 to-pink-500' : 'from-gray-300 to-gray-400'} rounded-full flex items-center justify-center text-white font-baloo font-bold text-lg flex-shrink-0 transition-all duration-200 ${isSelected ? 'scale-110' : ''}`}>
-        {String(option?.id || String.fromCharCode(65 + index)).toUpperCase()}
+        {String.fromCharCode(65 + index)}
       </span>
       <span className={`font-nunito font-bold text-base md:text-lg leading-snug ${isSelected ? 'text-purple-700' : 'text-gray-700'}`}>
         {option?.text || "Unknown Option"}
